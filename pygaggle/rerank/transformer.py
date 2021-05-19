@@ -31,9 +31,13 @@ __all__ = ['MonoT5',
 
 class MonoT5(Reranker):
     def __init__(self,
+                 from_pretrained = None,
                  model: T5ForConditionalGeneration = None,
                  tokenizer: QueryDocumentBatchTokenizer = None):
-        self.model = model or self.get_model()
+        if from_pretrained is not None:
+            self.model = self.get_model(from_pretrained)
+        else:
+            self.model = model or self.get_model()
         self.tokenizer = tokenizer or self.get_tokenizer()
         self.device = next(self.model.parameters(), None).device
 
