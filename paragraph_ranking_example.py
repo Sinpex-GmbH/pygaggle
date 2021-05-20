@@ -102,7 +102,7 @@ def get_pdf_question_labels(pdf_name, q_id, labels):
     return list(set(par_id_collect)), q_labels
 
 
-def compare_label_to_candidate_list(path_candidate, path_labels="/Users/nikolettatoth/T5_ranking/pygaggle/test_files/gt_labels_for_pdfs/gt_labels_q5q6q17_raw.json"):
+def compare_label_to_candidate_list(path_candidate, path_labels):
     with open(path_candidate, "r") as c_file:
         candidates = json.load(c_file)
     with open(path_labels, "r") as l_file:
@@ -158,16 +158,17 @@ if __name__=="__main__":
     #                       "test_files/compare_results/before_training/2019_INSTONE REAL ESTATE GROUP O.N._t5_candidates.json"]
 
     # COMPARE T5 PREDICTIONS AFTER TRAINING
-    list_of_candidates = ["test_files/compare_results/after_training/candidates_2018_BORUSSIA DORTMUND.json",
-                          "test_files/compare_results/after_training/2018_BORUSSIA DORTMUND.pdf_10ep_train_t5_candidates.json",
-                          "test_files/compare_results/after_training/candidates_2019_CROPENERGIES AG.json",
-                          "test_files/compare_results/after_training/2019_CROPENERGIES AG.pdf_10ep_train_t5_candidates.json",
-                          "test_files/compare_results/after_training/candidates_2019_INSTONE REAL ESTATE GROUP O.N..json",
-                          "test_files/compare_results/after_training/2019_INSTONE REAL ESTATE GROUP O.N..pdf_10ep_train_t5_candidates.json"]
+    list_of_candidates = ["pygaggle/test_files/paragraph_candidates/candidates_2018_BORUSSIA DORTMUND.json",
+                          "pygaggle/test_files/compare_results/after_training_10ep/2018_BORUSSIA DORTMUND.pdf_10ep_train_t5_candidates.json",
+                          "pygaggle/test_files/paragraph_candidates/candidates_2019_CROPENERGIES AG.json",
+                          "pygaggle/test_files/compare_results/after_training_10ep/2019_CROPENERGIES AG.pdf_10ep_train_t5_candidates.json",
+                          "pygaggle/test_files/paragraph_candidates/candidates_2019_INSTONE REAL ESTATE GROUP O.N..json",
+                          "pygaggle/test_files/compare_results/after_training_10ep/2019_INSTONE REAL ESTATE GROUP O.N..pdf_10ep_train_t5_candidates.json"]
+    path_label = "pygaggle/test_files/gt_labels_for_pdfs/gt_labels_q5q6q17_raw.json"
 
     final_res = []
     for can in list_of_candidates:
-        res = compare_label_to_candidate_list(path_candidate=can)
+        res = compare_label_to_candidate_list(path_candidate=can, path_labels=path_label)
         final_res.append(res)
 
     # with open("final_comparison_res_labels.json", "w") as outf:
@@ -193,5 +194,5 @@ if __name__=="__main__":
                             tcr.update(cr)
             reorg_results.update({pdfname_key: temp_collect_res})
     print(reorg_results)
-    with open("test_files/compare_results/after_training/final_comparison_res_after_training.json", "w") as outf:
+    with open("pygaggle/test_files/compare_results/after_training_10ep/final_comparison_res_after_training.json", "w") as outf:
         outf.write(json.dumps(reorg_results))
