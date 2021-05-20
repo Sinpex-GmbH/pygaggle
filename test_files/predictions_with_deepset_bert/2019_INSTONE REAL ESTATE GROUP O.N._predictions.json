@@ -1,0 +1,564 @@
+{
+    "predictions_dict": {
+        "1": [
+            {
+                "text": "Instone Real Estate Group AG",
+                "probability": 0.9833248853683472,
+                "start_char": 0,
+                "end_char": 0,
+                "question": "What is the legal name of the company the company?",
+                "q_id": 1,
+                "title": "2019_INSTONE REAL ESTATE GROUP O.N..pdf",
+                "paragraph_id": "p70p4",
+                "paragraph": "For example, we will also continue to evaluate all applicable internal regulations in 2019. This review and evaluation process is a continuous, ongoing process. In 2019, we completely revised some of the Company\u2019s guidelines in this context. The decision-making procedures which are valid for the entire Group have been further developed for the Management Board of Instone Real Estate Group AG on the basis of the Rules of Procedure and taking into consideration the applicable legislation and relevant case law.",
+                "retriever_score": 0.9677419354838709,
+                "final_score": 0.9817665903798996,
+                "from_table": {
+                    "id": 0,
+                    "row": -1,
+                    "col": -1
+                }
+            },
+            {
+                "text": "Instone Real Estate Group AG",
+                "probability": 0.9768569469451904,
+                "start_char": 0,
+                "end_char": 0,
+                "question": "What is the legal name of the company the company?",
+                "q_id": 1,
+                "title": "2019_INSTONE REAL ESTATE GROUP O.N..pdf",
+                "paragraph_id": "p95p2",
+                "paragraph": "INS TONE REAL E S TATE \u2013 ANNUAL REPORT 2019 96 Other disclosures Corporate governance statement and corporate governance report (UNAUDI TED) COMBINED MANAGEMENT REPORT CORPORATE GOVERNANCE STATEMENT AND CORPORATE GOVERNANCE REPORT (UNAUDITED) In this report, Instone Real Estate Group AG (hereinafter also: the Company) provides information about the Company\u2019s corporate governance in accordance with Sections 289f and 315d of the German Commercial Code (HGB) on the principles of corporate governance, Section 161 of the German Stock Corporation Act (AktG) and Section 3.10 of the German Corporate Governance Code (GCGC). In addition to the Declaration of Conformity with the GCGC, the report also contains information about corporate governance and the composition and working methods of the Management Board and Supervisory Board, as well as the Supervisory Board committees.",
+                "retriever_score": 0.9677419354838709,
+                "final_score": 0.9759454457990585,
+                "from_table": {
+                    "id": 0,
+                    "row": -1,
+                    "col": -1
+                }
+            },
+            {
+                "text": "Instone Real Estate Group AG",
+                "probability": 0.9750266671180725,
+                "start_char": 0,
+                "end_char": 0,
+                "question": "What is the legal name of the company the company?",
+                "q_id": 1,
+                "title": "2019_INSTONE REAL ESTATE GROUP O.N..pdf",
+                "paragraph_id": "p96p2",
+                "paragraph": "The Management Board and Supervisory Board of Instone Real Estate Group AG (the \u201cCompany\u201d) are required pursuant to Section 161 (1) of the German Stock Corporation Act (AktG) to issue an annual declaration of conformity stating that the recommendations of the \u201cGovernment Commission on the German Corporate Governance Code\u201d published by the Federal Ministry of Justice and Consumer Protection in the official Section of the Federal Gazette have been and are being complied with or which recommendations have not been or are not being complied with and why not. The Management Board and Supervisory board issued a Declaration of Conformity for the first time in December 2018.",
+                "retriever_score": 0.9677419354838709,
+                "final_score": 0.9742981939546524,
+                "from_table": {
+                    "id": 0,
+                    "row": -1,
+                    "col": -1
+                }
+            }
+        ],
+        "5": [
+            {
+                "text": "HRB 29362",
+                "probability": 0.6856666803359985,
+                "start_char": 0,
+                "end_char": 0,
+                "question": "What is the register number of the company?",
+                "q_id": 5,
+                "title": "2019_INSTONE REAL ESTATE GROUP O.N..pdf",
+                "paragraph_id": "p157p0",
+                "paragraph": "Essen, 13 March 2020 The Management Board Kruno Crepulja Dr. Foruhar Madjlessi Andreas Gr\u00e4f INS TONE REAL E S TATE \u2013 ANNUAL REPORT 2 019 158 CONTACT ABOUT US F INANCI AL CALENDAR OTHER INFORMATION CONTACT Thomas Eisenlohr Head of Investor Relations Instone Real Estate Group AG Grugaplatz 2\u2009\u2013\u20094, 45131 Essen, Germany Telephone: +49 201 45355-365 Fax: +49 201 45355-904 Email: GRI 102-53 Thomas.Eisenlohr@instone.de ABOUT US Instone Real Estate Group AG Grugaplatz 2\u2009\u2013\u20094 45131 Essen Deutschland Telephone: +49 201 45355-0 Fax: Email: GRI 102-1; 102-3 Management Board Kruno Crepulja (Chairman/CEO), Dr Foruhar Madjlessi, Andreas Gr\u00e4f Chairman of the Supervisory Board Stefan Brendgen Commercial Register Registered in the Commercial Register of the Essen Local Court under HRB 29362 Sales tax ID number DE 300512686 Concept, design and implementation MPM Corporate Communication Solutions, Mainz, Dusseldorf mpm.de INS TONE REAL E S TATE \u2013 ANNUAL REPORT 2 019 159 +49 201 45355-934 info@instone.de FINANCIAL CALENDAR 19/03/2020 28/05/2020 09/06/2020 27/08/2020 26/11/2020 Publication of financial report for year ended 31 December 2019 Publication of quarterly statement as at 31 March 2020 Annual General Meeting Publication of half-year report as at 30 June 2020 Publication of quarterly statement as at 30 September 2020 GR I content index OTHER INFORMATION GRI CONTENT INDEX GRI CONTENT INDEX GRI standards Disclosures 102-1 102-3 102-4 102-5 102-7 102-8 102-12 102-13 102-14 102-15 102-18 102-22 102-23 102-24 102-25 102-26 102-29 102-30 102-31 102-33 102-40 102-41 102-43 102-45 Name of the organization Location of headquarters Location of operations Ownership and legal form Scale of the organization Information on employees and other workers External initiatives Membership of associations Statement from senior decision-maker Key impacts, risks, and opportunities Governance structure Composition of the highest governance body and its committees Chair of the highest governance body Nominating and selecting the highest governance body Conflicts of interest Role of highest governance body in setting purpose, values, and strategy Identifying and managing economic, environmental, and social impacts Effectiveness of risk management processes Review of economic, environmental, and social topics Communicating critical concerns List of stakeholder groups Collective bargaining agreements Approach to stakeholder engagement Entities included in the consolidated financial statements GRI 102-55 Page 159 159 32 29 2 33, 42, 44, 59, 70 46 46 20 34, 46 33, 98, 102 103-1 100, 102, 142 142 100 29, 92, 140, 142 202-1 101 202-2 102 101, 102 101 102, 104 47 43 49 150, 151 203-2 205-2 205-3 206-1 203 203-1 201-3 103-2 201-1 GRI CONTENT INDEX GRI standards Disclosures Page 102-46 102-47 102-48 102-49 102-51 102-53 102-54 102-55 102-56 103 Defining report content and topic Boundaries List of material topics Restatements of information Changes in reporting Date of most recent report Contact point for questions regarding the report Claims of reporting in accordance with the GRI Standards GRI content index External assurance Management Approach Explanation of the material topic and its Boundary The management approach and its components Direct economic value generated and distributed Defined benefit plan obligations and other retirement plans Ratios of standard entry level wage by gender compared to local minimum wage Proportion of senior management hired from the local community Indirect Economic Impacts Infrastructure investments and services supported Significant indirect economic impacts Communication and training about anti-corruption policies and procedures Confirmed incidents of corruption and actions taken Legal actions for anti-competitive behavior, anti-trust, and monopoly practices INS TONE REAL E S TATE \u2013 ANNUAL REPORT 2 019 160 115, 119 115 115, 117 115 41 159 41 160 41, 154 36 36 36 107, 108, 111, 124, 125 62, 87, 124, 126, 132 43 42 48 48 48 104 78 78 305 306 401-1 401-2 401-3 403-1 403-2 403-3 403-4 403-5 403-6 403-9 404-1 GRI CONTENT INDEX GRI standards Disclosures 207-1 207-2 207-3 207-4 302-1 302-5 304 304-2 304-3 304-4 Approach to tax Tax governance, control, and risk management Stakeholder engagement and management of concerns related to tax Country-by-country reporting Energy consumption within the organization Reductions in energy requirements of products and services Biodiversity Significant impacts of activities, products, and services on biodiversity Habitats protected or restored IUCN Red List species and national conservation list species with habitats in areas affected by operations Emissions Effluents and Waste New employee hires and employee turnover Benefits provided to full-time employees that are not provided to temporary or part-time employees Parental leave Occupational health and safety management system Hazard identification, risk assessment, and incident investigation Occupational health services Worker participation, consultation, and communication on occupational health and safety Worker training on occupational health and safety Promotion of worker health Work-related injuries Average hours of training per year per employee Page 50 50 50 50 50 50 49 50 50 50 50 49 42 43 43 44 44 44 44 44 44 44 44 GR I content index OTHER INFORMATION GRI CONTENT INDEX GRI standards Disclosures 405 405-1 405-2 406 406-1 407 407-1 408 408-1 Diversity and Equal Opportunity Diversity of governance bodies and employees Ratio of basic salary and remuneration of women to men Non-discrimination Incidents of discrimination and corrective actions taken Freedom of Association and Collective Bargaining Operations and suppliers in which the right to freedom of association and collective bargaining may be at risk Child Labor Operations and suppliers at significant risk for incidents of child labor Page 45 45, 103 416-1 45 45 45 418-1 45 419-1 45 46 46 417-2 417-3 GRI CONTENT INDEX GRI standards Disclosures 413-1 Operations with local community engagement, impact assessments, and development programs Assessment of the health and safety impacts of product and service categories Incidents of non-compliance concerning product and service information and labeling Incidents of non-compliance concerning marketing communications Substantiated complaints concerning breaches of customer privacy and losses of customer data Non-compliance with laws and regulations in the social and economic area Page 49 49 41, 78 78 78 104 INS TONE REAL E S TATE \u2013 ANNUAL REPORT 2 019 161 Glossary OTHER INFORMATION GLOSSARY A / Core cities: A cities: Refers to the metropolitan cities of Berlin, Hamburg, Munich, Cologne, Stuttgart, Frankfurt am Main and Dusseldorf which are considered in the real estate industry to be the seven most desirable locations in Germany.",
+                "retriever_score": 1.0,
+                "final_score": 0.7171000123023987,
+                "from_table": {
+                    "id": 0,
+                    "row": -1,
+                    "col": -1
+                }
+            },
+            {
+                "text": "HRB 28401",
+                "probability": 0.6830481886863708,
+                "start_char": 0,
+                "end_char": 0,
+                "question": "What is the register number of the company?",
+                "q_id": 5,
+                "title": "2019_INSTONE REAL ESTATE GROUP O.N..pdf",
+                "paragraph_id": "p142p1",
+                "paragraph": "Waiver of the disclosure of information and the preparation of the management report in accordance with Section 264(3) HGB Instone Real Estate Development GmbH, headquartered in Essen, Germany and registered in the Commercial Register of the Essen District Court under HRB 28401, complies with the requirements set out in Section 264(3) HGB and is therefore exempt from disclosure of information in its annual financial statements and the preparation of a management report.",
+                "retriever_score": 0.5,
+                "final_score": 0.6647433698177339,
+                "from_table": {
+                    "id": 0,
+                    "row": -1,
+                    "col": -1
+                }
+            },
+            {
+                "text": "5",
+                "probability": 0.7348853945732117,
+                "start_char": 0,
+                "end_char": 0,
+                "question": "What is the entry number of the company?",
+                "q_id": 5,
+                "title": "2019_INSTONE REAL ESTATE GROUP O.N..pdf",
+                "paragraph_id": "p4p0",
+                "paragraph": "INS TONE REAL E S TATE \u2013 ANNUAL REPORT 2019 5 ABOUT INSTONE ACHIEVING MORE TOGETHER Instone Real Estate is in demand as a partner for cons\u00ad truction projects in Germany\u2019s urban centres. We build entire districts with a real sense of purpose and a keen awareness of the bigger picture. This would not be possible without our highly motivated, expertly trained employees. Philipp Pellio, head of project development in Hamburg, is one of them.",
+                "retriever_score": 0.0,
+                "final_score": 0.6613968551158905,
+                "from_table": {
+                    "id": 0,
+                    "row": -1,
+                    "col": -1
+                }
+            }
+        ],
+        "6": [
+            {
+                "text": "Essen District Court",
+                "probability": 0.8226803541183472,
+                "start_char": 0,
+                "end_char": 0,
+                "question": "Which court is the company registered in?",
+                "q_id": 6,
+                "title": "2019_INSTONE REAL ESTATE GROUP O.N..pdf",
+                "paragraph_id": "p114p0",
+                "paragraph": "The conversion became legally effective upon registration of Instone Real Estate Group N.V. under number 60490861 on 13 February 2018 at the Dutch Chamber of Commerce and Industry, registered ex officio at the Essen District Court under HRB 26426 on 14 May 2018.",
+                "retriever_score": 0.85,
+                "final_score": 0.8254123187065124,
+                "from_table": {
+                    "id": 0,
+                    "row": -1,
+                    "col": -1
+                }
+            },
+            {
+                "text": "Essen District Court",
+                "probability": 0.8035064935684204,
+                "start_char": 0,
+                "end_char": 0,
+                "question": "Which court is the company registered in?",
+                "q_id": 6,
+                "title": "2019_INSTONE REAL ESTATE GROUP O.N..pdf",
+                "paragraph_id": "p142p1",
+                "paragraph": "Waiver of the disclosure of information and the preparation of the management report in accordance with Section 264(3) HGB Instone Real Estate Development GmbH, headquartered in Essen, Germany and registered in the Commercial Register of the Essen District Court under HRB 28401, complies with the requirements set out in Section 264(3) HGB and is therefore exempt from disclosure of information in its annual financial statements and the preparation of a management report.",
+                "retriever_score": 1.0,
+                "final_score": 0.8231558442115784,
+                "from_table": {
+                    "id": 0,
+                    "row": -1,
+                    "col": -1
+                }
+            },
+            {
+                "text": "Commercial Register of the Essen Local Court",
+                "probability": 0.7845587134361267,
+                "start_char": 0,
+                "end_char": 0,
+                "question": "Which commercial register is the company registered in?",
+                "q_id": 6,
+                "title": "2019_INSTONE REAL ESTATE GROUP O.N..pdf",
+                "paragraph_id": "p157p0",
+                "paragraph": "Essen, 13 March 2020 The Management Board Kruno Crepulja Dr. Foruhar Madjlessi Andreas Gr\u00e4f INS TONE REAL E S TATE \u2013 ANNUAL REPORT 2 019 158 CONTACT ABOUT US F INANCI AL CALENDAR OTHER INFORMATION CONTACT Thomas Eisenlohr Head of Investor Relations Instone Real Estate Group AG Grugaplatz 2\u2009\u2013\u20094, 45131 Essen, Germany Telephone: +49 201 45355-365 Fax: +49 201 45355-904 Email: GRI 102-53 Thomas.Eisenlohr@instone.de ABOUT US Instone Real Estate Group AG Grugaplatz 2\u2009\u2013\u20094 45131 Essen Deutschland Telephone: +49 201 45355-0 Fax: Email: GRI 102-1; 102-3 Management Board Kruno Crepulja (Chairman/CEO), Dr Foruhar Madjlessi, Andreas Gr\u00e4f Chairman of the Supervisory Board Stefan Brendgen Commercial Register Registered in the Commercial Register of the Essen Local Court under HRB 29362 Sales tax ID number DE 300512686 Concept, design and implementation MPM Corporate Communication Solutions, Mainz, Dusseldorf mpm.de INS TONE REAL E S TATE \u2013 ANNUAL REPORT 2 019 159 +49 201 45355-934 info@instone.de FINANCIAL CALENDAR 19/03/2020 28/05/2020 09/06/2020 27/08/2020 26/11/2020 Publication of financial report for year ended 31 December 2019 Publication of quarterly statement as at 31 March 2020 Annual General Meeting Publication of half-year report as at 30 June 2020 Publication of quarterly statement as at 30 September 2020 GR I content index OTHER INFORMATION GRI CONTENT INDEX GRI CONTENT INDEX GRI standards Disclosures 102-1 102-3 102-4 102-5 102-7 102-8 102-12 102-13 102-14 102-15 102-18 102-22 102-23 102-24 102-25 102-26 102-29 102-30 102-31 102-33 102-40 102-41 102-43 102-45 Name of the organization Location of headquarters Location of operations Ownership and legal form Scale of the organization Information on employees and other workers External initiatives Membership of associations Statement from senior decision-maker Key impacts, risks, and opportunities Governance structure Composition of the highest governance body and its committees Chair of the highest governance body Nominating and selecting the highest governance body Conflicts of interest Role of highest governance body in setting purpose, values, and strategy Identifying and managing economic, environmental, and social impacts Effectiveness of risk management processes Review of economic, environmental, and social topics Communicating critical concerns List of stakeholder groups Collective bargaining agreements Approach to stakeholder engagement Entities included in the consolidated financial statements GRI 102-55 Page 159 159 32 29 2 33, 42, 44, 59, 70 46 46 20 34, 46 33, 98, 102 103-1 100, 102, 142 142 100 29, 92, 140, 142 202-1 101 202-2 102 101, 102 101 102, 104 47 43 49 150, 151 203-2 205-2 205-3 206-1 203 203-1 201-3 103-2 201-1 GRI CONTENT INDEX GRI standards Disclosures Page 102-46 102-47 102-48 102-49 102-51 102-53 102-54 102-55 102-56 103 Defining report content and topic Boundaries List of material topics Restatements of information Changes in reporting Date of most recent report Contact point for questions regarding the report Claims of reporting in accordance with the GRI Standards GRI content index External assurance Management Approach Explanation of the material topic and its Boundary The management approach and its components Direct economic value generated and distributed Defined benefit plan obligations and other retirement plans Ratios of standard entry level wage by gender compared to local minimum wage Proportion of senior management hired from the local community Indirect Economic Impacts Infrastructure investments and services supported Significant indirect economic impacts Communication and training about anti-corruption policies and procedures Confirmed incidents of corruption and actions taken Legal actions for anti-competitive behavior, anti-trust, and monopoly practices INS TONE REAL E S TATE \u2013 ANNUAL REPORT 2 019 160 115, 119 115 115, 117 115 41 159 41 160 41, 154 36 36 36 107, 108, 111, 124, 125 62, 87, 124, 126, 132 43 42 48 48 48 104 78 78 305 306 401-1 401-2 401-3 403-1 403-2 403-3 403-4 403-5 403-6 403-9 404-1 GRI CONTENT INDEX GRI standards Disclosures 207-1 207-2 207-3 207-4 302-1 302-5 304 304-2 304-3 304-4 Approach to tax Tax governance, control, and risk management Stakeholder engagement and management of concerns related to tax Country-by-country reporting Energy consumption within the organization Reductions in energy requirements of products and services Biodiversity Significant impacts of activities, products, and services on biodiversity Habitats protected or restored IUCN Red List species and national conservation list species with habitats in areas affected by operations Emissions Effluents and Waste New employee hires and employee turnover Benefits provided to full-time employees that are not provided to temporary or part-time employees Parental leave Occupational health and safety management system Hazard identification, risk assessment, and incident investigation Occupational health services Worker participation, consultation, and communication on occupational health and safety Worker training on occupational health and safety Promotion of worker health Work-related injuries Average hours of training per year per employee Page 50 50 50 50 50 50 49 50 50 50 50 49 42 43 43 44 44 44 44 44 44 44 44 GR I content index OTHER INFORMATION GRI CONTENT INDEX GRI standards Disclosures 405 405-1 405-2 406 406-1 407 407-1 408 408-1 Diversity and Equal Opportunity Diversity of governance bodies and employees Ratio of basic salary and remuneration of women to men Non-discrimination Incidents of discrimination and corrective actions taken Freedom of Association and Collective Bargaining Operations and suppliers in which the right to freedom of association and collective bargaining may be at risk Child Labor Operations and suppliers at significant risk for incidents of child labor Page 45 45, 103 416-1 45 45 45 418-1 45 419-1 45 46 46 417-2 417-3 GRI CONTENT INDEX GRI standards Disclosures 413-1 Operations with local community engagement, impact assessments, and development programs Assessment of the health and safety impacts of product and service categories Incidents of non-compliance concerning product and service information and labeling Incidents of non-compliance concerning marketing communications Substantiated complaints concerning breaches of customer privacy and losses of customer data Non-compliance with laws and regulations in the social and economic area Page 49 49 41, 78 78 78 104 INS TONE REAL E S TATE \u2013 ANNUAL REPORT 2 019 161 Glossary OTHER INFORMATION GLOSSARY A / Core cities: A cities: Refers to the metropolitan cities of Berlin, Hamburg, Munich, Cologne, Stuttgart, Frankfurt am Main and Dusseldorf which are considered in the real estate industry to be the seven most desirable locations in Germany.",
+                "retriever_score": 1.0,
+                "final_score": 0.806102842092514,
+                "from_table": {
+                    "id": 0,
+                    "row": -1,
+                    "col": -1
+                }
+            }
+        ],
+        "7": [
+            {
+                "text": "13 March 2020",
+                "probability": 0.7647282481193542,
+                "start_char": 0,
+                "end_char": 0,
+                "question": "What is the date of incorporation?",
+                "q_id": 7,
+                "title": "2019_INSTONE REAL ESTATE GROUP O.N..pdf",
+                "paragraph_id": "p157p0",
+                "paragraph": "Essen, 13 March 2020 The Management Board Kruno Crepulja Dr. Foruhar Madjlessi Andreas Gr\u00e4f INS TONE REAL E S TATE \u2013 ANNUAL REPORT 2 019 158 CONTACT ABOUT US F INANCI AL CALENDAR OTHER INFORMATION CONTACT Thomas Eisenlohr Head of Investor Relations Instone Real Estate Group AG Grugaplatz 2\u2009\u2013\u20094, 45131 Essen, Germany Telephone: +49 201 45355-365 Fax: +49 201 45355-904 Email: GRI 102-53 Thomas.Eisenlohr@instone.de ABOUT US Instone Real Estate Group AG Grugaplatz 2\u2009\u2013\u20094 45131 Essen Deutschland Telephone: +49 201 45355-0 Fax: Email: GRI 102-1; 102-3 Management Board Kruno Crepulja (Chairman/CEO), Dr Foruhar Madjlessi, Andreas Gr\u00e4f Chairman of the Supervisory Board Stefan Brendgen Commercial Register Registered in the Commercial Register of the Essen Local Court under HRB 29362 Sales tax ID number DE 300512686 Concept, design and implementation MPM Corporate Communication Solutions, Mainz, Dusseldorf mpm.de INS TONE REAL E S TATE \u2013 ANNUAL REPORT 2 019 159 +49 201 45355-934 info@instone.de FINANCIAL CALENDAR 19/03/2020 28/05/2020 09/06/2020 27/08/2020 26/11/2020 Publication of financial report for year ended 31 December 2019 Publication of quarterly statement as at 31 March 2020 Annual General Meeting Publication of half-year report as at 30 June 2020 Publication of quarterly statement as at 30 September 2020 GR I content index OTHER INFORMATION GRI CONTENT INDEX GRI CONTENT INDEX GRI standards Disclosures 102-1 102-3 102-4 102-5 102-7 102-8 102-12 102-13 102-14 102-15 102-18 102-22 102-23 102-24 102-25 102-26 102-29 102-30 102-31 102-33 102-40 102-41 102-43 102-45 Name of the organization Location of headquarters Location of operations Ownership and legal form Scale of the organization Information on employees and other workers External initiatives Membership of associations Statement from senior decision-maker Key impacts, risks, and opportunities Governance structure Composition of the highest governance body and its committees Chair of the highest governance body Nominating and selecting the highest governance body Conflicts of interest Role of highest governance body in setting purpose, values, and strategy Identifying and managing economic, environmental, and social impacts Effectiveness of risk management processes Review of economic, environmental, and social topics Communicating critical concerns List of stakeholder groups Collective bargaining agreements Approach to stakeholder engagement Entities included in the consolidated financial statements GRI 102-55 Page 159 159 32 29 2 33, 42, 44, 59, 70 46 46 20 34, 46 33, 98, 102 103-1 100, 102, 142 142 100 29, 92, 140, 142 202-1 101 202-2 102 101, 102 101 102, 104 47 43 49 150, 151 203-2 205-2 205-3 206-1 203 203-1 201-3 103-2 201-1 GRI CONTENT INDEX GRI standards Disclosures Page 102-46 102-47 102-48 102-49 102-51 102-53 102-54 102-55 102-56 103 Defining report content and topic Boundaries List of material topics Restatements of information Changes in reporting Date of most recent report Contact point for questions regarding the report Claims of reporting in accordance with the GRI Standards GRI content index External assurance Management Approach Explanation of the material topic and its Boundary The management approach and its components Direct economic value generated and distributed Defined benefit plan obligations and other retirement plans Ratios of standard entry level wage by gender compared to local minimum wage Proportion of senior management hired from the local community Indirect Economic Impacts Infrastructure investments and services supported Significant indirect economic impacts Communication and training about anti-corruption policies and procedures Confirmed incidents of corruption and actions taken Legal actions for anti-competitive behavior, anti-trust, and monopoly practices INS TONE REAL E S TATE \u2013 ANNUAL REPORT 2 019 160 115, 119 115 115, 117 115 41 159 41 160 41, 154 36 36 36 107, 108, 111, 124, 125 62, 87, 124, 126, 132 43 42 48 48 48 104 78 78 305 306 401-1 401-2 401-3 403-1 403-2 403-3 403-4 403-5 403-6 403-9 404-1 GRI CONTENT INDEX GRI standards Disclosures 207-1 207-2 207-3 207-4 302-1 302-5 304 304-2 304-3 304-4 Approach to tax Tax governance, control, and risk management Stakeholder engagement and management of concerns related to tax Country-by-country reporting Energy consumption within the organization Reductions in energy requirements of products and services Biodiversity Significant impacts of activities, products, and services on biodiversity Habitats protected or restored IUCN Red List species and national conservation list species with habitats in areas affected by operations Emissions Effluents and Waste New employee hires and employee turnover Benefits provided to full-time employees that are not provided to temporary or part-time employees Parental leave Occupational health and safety management system Hazard identification, risk assessment, and incident investigation Occupational health services Worker participation, consultation, and communication on occupational health and safety Worker training on occupational health and safety Promotion of worker health Work-related injuries Average hours of training per year per employee Page 50 50 50 50 50 50 49 50 50 50 50 49 42 43 43 44 44 44 44 44 44 44 44 GR I content index OTHER INFORMATION GRI CONTENT INDEX GRI standards Disclosures 405 405-1 405-2 406 406-1 407 407-1 408 408-1 Diversity and Equal Opportunity Diversity of governance bodies and employees Ratio of basic salary and remuneration of women to men Non-discrimination Incidents of discrimination and corrective actions taken Freedom of Association and Collective Bargaining Operations and suppliers in which the right to freedom of association and collective bargaining may be at risk Child Labor Operations and suppliers at significant risk for incidents of child labor Page 45 45, 103 416-1 45 45 45 418-1 45 419-1 45 46 46 417-2 417-3 GRI CONTENT INDEX GRI standards Disclosures 413-1 Operations with local community engagement, impact assessments, and development programs Assessment of the health and safety impacts of product and service categories Incidents of non-compliance concerning product and service information and labeling Incidents of non-compliance concerning marketing communications Substantiated complaints concerning breaches of customer privacy and losses of customer data Non-compliance with laws and regulations in the social and economic area Page 49 49 41, 78 78 78 104 INS TONE REAL E S TATE \u2013 ANNUAL REPORT 2 019 161 Glossary OTHER INFORMATION GLOSSARY A / Core cities: A cities: Refers to the metropolitan cities of Berlin, Hamburg, Munich, Cologne, Stuttgart, Frankfurt am Main and Dusseldorf which are considered in the real estate industry to be the seven most desirable locations in Germany.",
+                "retriever_score": 1.0,
+                "final_score": 0.7882554233074188,
+                "from_table": {
+                    "id": 0,
+                    "row": -1,
+                    "col": -1
+                }
+            },
+            {
+                "text": "13 September 2019",
+                "probability": 0.7312783598899841,
+                "start_char": 0,
+                "end_char": 0,
+                "question": "What is the date of incorporation?",
+                "q_id": 7,
+                "title": "2019_INSTONE REAL ESTATE GROUP O.N..pdf",
+                "paragraph_id": "p126p1",
+                "paragraph": "\u2013 1,082 \u2013 598 The first-time capitalisation from the recognition of tax loss carryforwards and interest carryforwards from the parent company from previous years was performed on the basis of the positive decision of the Annual General Meeting in June 2019 to conclude a domination and profit and loss transfer agreement with a subsidiary. This domination and profit and loss transfer agreement was concluded on 11 September 2019 with retroactive effect on 1 January 2019 following its registration in the commercial register on 13 September 2019.",
+                "retriever_score": 0.9666666666666667,
+                "final_score": 0.7548171905676524,
+                "from_table": {
+                    "id": 0,
+                    "row": -1,
+                    "col": -1
+                }
+            },
+            {
+                "text": "28 August 2018",
+                "probability": 0.7312431335449219,
+                "start_char": 0,
+                "end_char": 0,
+                "question": "What is the date of incorporation?",
+                "q_id": 7,
+                "title": "2019_INSTONE REAL ESTATE GROUP O.N..pdf",
+                "paragraph_id": "p129p7",
+                "paragraph": "INS TONE REAL E S TATE \u2013 ANNUAL REPORT 2019 130 Notes to the consolidated statement of financial position NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 20 Trade receivables Trade receivables are comprised as shown below: 22 Income tax assets INCOME TAX ASSETS In thousands of euros TRADE RECEIVABLES In thousands of euros Trade receivables 31/12/2019 8,278 8,278 31/12/2018 13,127 13,127 31/12/2019 Receivables from domestic and foreign tax authorities during the ordinary course of business 31/12/2018 The authorised capital became effective upon the registration of the Company in the commercial register of the Local Court of Essen during the cross-border conversion of legal form on 28 August 2018. With regard to contingent capital, reference is made to the statements in the takeover law disclosures section of the combined management report.",
+                "retriever_score": 0.9666666666666667,
+                "final_score": 0.7547854868570963,
+                "from_table": {
+                    "id": 0,
+                    "row": -1,
+                    "col": -1
+                }
+            }
+        ],
+        "9": [
+            {
+                "text": "Frankfurt am Main",
+                "probability": 0.9643604159355164,
+                "start_char": 0,
+                "end_char": 0,
+                "question": "Where is the principal office of the company located?",
+                "q_id": 9,
+                "title": "2019_INSTONE REAL ESTATE GROUP O.N..pdf",
+                "paragraph_id": "p16p4",
+                "paragraph": "DH I particularly appreciate the openness among the team here in Frankfurt am Main. My job covers a broad spectrum, and our projects all have individual commercial structures, so there\u2019s no danger of getting bored. I also really appreciate the flexibility of working hours that is essential in order to maintain a balance between work and family. What\u2019s more, I have the option of working from home whenever I need to, and can also carry out my managerial role on a part-time basis. That isn\u2019t always the case at every company. To me, Instone Real Estate is a company with prospects.",
+                "retriever_score": 0.46774193548387094,
+                "final_score": 0.9146985678903519,
+                "from_table": {
+                    "id": 0,
+                    "row": -1,
+                    "col": -1
+                }
+            },
+            {
+                "text": "RHINE-MAIN",
+                "probability": 0.9300113916397095,
+                "start_char": 0,
+                "end_char": 0,
+                "question": "Where is the principal office of the company located?",
+                "q_id": 9,
+                "title": "2019_INSTONE REAL ESTATE GROUP O.N..pdf",
+                "paragraph_id": "p16p6",
+                "paragraph": "D\u00f6rte Hennh\u00f6fer COMMERCIAL DIRECTOR FOR RHINE-MAIN \u201cA good commercial service ensures that the key figures are sufficiently clear, and is therefore essential for a well-functioning listed company.\u201d b\u00f6rsennotiertes Unternehmen.\u201c Project advertisements are also part of the budget process.",
+                "retriever_score": 0.46774193548387094,
+                "final_score": 0.8837844460241256,
+                "from_table": {
+                    "id": 0,
+                    "row": -1,
+                    "col": -1
+                }
+            },
+            {
+                "text": "Germany",
+                "probability": 0.8679737448692322,
+                "start_char": 0,
+                "end_char": 0,
+                "question": "Where is the principal office of the company located?",
+                "q_id": 9,
+                "title": "2019_INSTONE REAL ESTATE GROUP O.N..pdf",
+                "paragraph_id": "p31p0",
+                "paragraph": "Instone Real Estate AG has been listed on the SDAX since 29 August 2019. The Company develops attractive residential and apartment buildings and publicly subsidised residential construction, plus designs modern city districts and refurbishes listed buildings. These are marketed to owner-occupiers, private investors with the intention of leasing and institutional investors. Over the course of 29 years, we have consequently realised more than one\u202fmillion square meters. We have 375 employees at nine locations across Germany. As at 31 December 2019, the project portfolio of Instone Real Estate included 55 development projects with an anticipated overall sales volume of approximately \u20ac5.8 billion and more than 13,715 units.",
+                "retriever_score": 0.9354838709677419,
+                "final_score": 0.8747247574790832,
+                "from_table": {
+                    "id": 0,
+                    "row": -1,
+                    "col": -1
+                }
+            }
+        ],
+        "11": [
+            {
+                "text": "residential real estate",
+                "probability": 0.9016529321670532,
+                "start_char": 0,
+                "end_char": 0,
+                "question": "What is the company specializing in?",
+                "q_id": 11,
+                "title": "2019_INSTONE REAL ESTATE GROUP O.N..pdf",
+                "paragraph_id": "p2p1",
+                "paragraph": "OUR VALUES Impressive factors in success With our consistent focus on residential real estate, we have an efficient and coherent business model with clear structures. It is only because of this that we are well positioned to meet the challenges of modern residential construction and able to make the right decisions. As a result, in every project we aim to be seen as a competent partner who wins over stakeholders through local presence, trust and reliability.",
+                "retriever_score": 0.6666666666666669,
+                "final_score": 0.8781543056170146,
+                "from_table": {
+                    "id": 0,
+                    "row": -1,
+                    "col": -1
+                }
+            },
+            {
+                "text": "Instone Real Estate",
+                "probability": 0.6598758101463318,
+                "start_char": 0,
+                "end_char": 0,
+                "question": "What is the company specializing in?",
+                "q_id": 11,
+                "title": "2019_INSTONE REAL ESTATE GROUP O.N..pdf",
+                "paragraph_id": "p12p3",
+                "paragraph": "A bridge between both sides What Sarah Kowalewski particularly enjoys about her job is the variety and responsibility. She has to be able to adopt the perspective of the buyers as well as the planners and operators, and liaise between the two positions in the interest of Instone Real Estate. The customer manager explains the usual process: \u201cIt can take two to three years from completion of the transaction before a customer gets the keys to their apartment. During this time, there are phases when many decisions are made, phases when the main focus is initially on sales and then on construction progress, but also phases when you just need to get stuck in.",
+                "retriever_score": 0.6666666666666669,
+                "final_score": 0.6605548957983652,
+                "from_table": {
+                    "id": 0,
+                    "row": -1,
+                    "col": -1
+                }
+            },
+            {
+                "text": "quality",
+                "probability": 0.483256071805954,
+                "start_char": 0,
+                "end_char": 0,
+                "question": "What is the company specializing in?",
+                "q_id": 11,
+                "title": "2019_INSTONE REAL ESTATE GROUP O.N..pdf",
+                "paragraph_id": "p16p5",
+                "paragraph": "DH I can consider myself lucky, and I\u2019m happy with the way things are at the moment. So my goals mainly relate to the company: new staff must be developed and our commitment to quality must be maintained and passed on accordingly. I\u2019m happy to support this.",
+                "retriever_score": 0.3333333333333334,
+                "final_score": 0.46826379795869194,
+                "from_table": {
+                    "id": 0,
+                    "row": -1,
+                    "col": -1
+                }
+            }
+        ],
+        "12": [
+            {
+                "text": "Kruno Crepulja",
+                "probability": 0.9356805086135864,
+                "start_char": 0,
+                "end_char": 0,
+                "question": "Who is the CEO/co-CEO of the company?",
+                "q_id": 12,
+                "title": "2019_INSTONE REAL ESTATE GROUP O.N..pdf",
+                "paragraph_id": "p98p0",
+                "paragraph": "Other disclosures Corporate governance statement and corporate governance report (UNAUDI TED) COMBINED MANAGEMENT REPORT Instone Real Estate Group AG \u2013 organisational chart Kruno Crepulja (CEO) Dr. Foruhar Madjlessi (CFO) Strategy/business development Mergers & acquisitions Project Service Corporate communications Purchasing IT Modular planning and building Controlling Commercial project management Financing Finance and accounting Tax Legal1 Andreas Gr\u00e4f (COO) Product Development Marketing Human Resources Sales IRE_D COOs Process and Risk Managemen2 Investor relations IRE CFOs 1 Including c orporate and capital markets as well as support for the Supervisory Board. 2 Including auditing, compliance, data protection.",
+                "retriever_score": 0.9666666666666667,
+                "final_score": 0.9387791244188944,
+                "from_table": {
+                    "id": 0,
+                    "row": -1,
+                    "col": -1
+                }
+            },
+            {
+                "text": "Kruno Crepulja",
+                "probability": 0.9318773150444031,
+                "start_char": 0,
+                "end_char": 0,
+                "question": "Who is the CEO/co-CEO of the company?",
+                "q_id": 12,
+                "title": "2019_INSTONE REAL ESTATE GROUP O.N..pdf",
+                "paragraph_id": "p33p1",
+                "paragraph": "We maintain an intensive dialogue with local authorities and those at national level. In this way, Instone Real Estate contributes suitable measures to maintain or improve the political environment for the development of housing. For example, our CEO, Kruno Crepulja, is Deputy Chairman of the Central Real Estate Committee (ZIA).",
+                "retriever_score": 0.9666666666666667,
+                "final_score": 0.9353562502066295,
+                "from_table": {
+                    "id": 0,
+                    "row": -1,
+                    "col": -1
+                }
+            },
+            {
+                "text": "Dr Jochen Scharpe",
+                "probability": 0.8969231247901917,
+                "start_char": 0,
+                "end_char": 0,
+                "question": "Who is the CEO/co-CEO of the company?",
+                "q_id": 12,
+                "title": "2019_INSTONE REAL ESTATE GROUP O.N..pdf",
+                "paragraph_id": "p141p0",
+                "paragraph": "Other disclosures NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS Andreas Gr\u00e4f \u2192 \u2192 Member of the Management Board \u2192\u2192 COO of Instone Real Estate Group AG Dr Jochen Scharpe, Managing Director of AMCi and ReTurn Immobilien GmbH \u2192\u2192 COO of Instone Real Estate Development GmbH for the North Rhine-Westphalia and Rhine-Main branches Former members of the Management Board as at 31 December 2019: Torsten Kracht \u2192\u2192 Member of the Management Board \u2192\u2192 CSO of Instone Real Estate Group AG \u2192\u2192 Managing Director of Instone Real Estate Leipzig GmbH \u2192\u2192 COO of Instone Real Estate Development GmbH for Saxony Members of the Supervisory Board GRI 102-22; 102-23; 102-25 Stefan Brendgen, independent management consultant In addition to his function as Chairman of the Supervisory Board of the Company, Mr Brendgen is a member of the following other statutory supervisory boards and comparable domestic and foreign supervisory bodies of commercial enterprises: \u2192\u2192 aamundo asset Management GmbH & Co. KGaA (Chairman of the Supervisory Board) \u2192\u2192 Climeon AB (member of the Supervisory Board) \u2192\u2192 HAHN-Immobilien-Beteiligungs AG (member of the Supervisory Board) INS TONE REAL E S TATE \u2013 ANNUAL REPORT 2019 142 In addition to his function as Deputy Chairman of the Supervisory Board of the Company, Dr Scharpe is a member of the following other statutory supervisory boards and comparable domestic and foreign supervisory bodies of commercial enterprises: \u2192\u2192 FFIRE AG (Deputy Chairman of the Supervisory Board) \u2192\u2192 LEG Immobilien AG (member of the Supervisory Board) Marija Korsch, Chairman of the Supervisory Board of Aareal Bank AG In addition to her function as a member of the Supervisory Board of the Company, Ms Korsch is a member of the following other statutory supervisory boards and comparable domestic and foreign supervisory bodies of commercial enterprises: \u2192\u2192 Aareal Bank AG (Chairperson of the Supervisory Board) \u2192\u2192 Just Software AG (member of the Supervisory Board) \u2192\u2192 Nomura Financial Products GmbH (member of the Supervisory Board) Dietmar P. Binkowska, independent management consultant Mr Binkowska is not a member of any other statutory supervisory boards or comparable domestic and foreign supervisory bodies of commercial enterprises in addition to his function as a member of the Supervisory Board of the Company.",
+                "retriever_score": 0.9666666666666667,
+                "final_score": 0.9038974789778392,
+                "from_table": {
+                    "id": 0,
+                    "row": -1,
+                    "col": -1
+                }
+            }
+        ],
+        "17": [
+            {
+                "text": "\u20ac36,988 thousand",
+                "probability": 0.8173460960388184,
+                "start_char": 0,
+                "end_char": 0,
+                "question": "How much is the capital share?",
+                "q_id": 17,
+                "title": "2019_INSTONE REAL ESTATE GROUP O.N..pdf",
+                "paragraph_id": "p130p6",
+                "paragraph": "24 Equity As of 31 December 2019, the Company\u2019s share capital amounts to \u20ac36,988 thousand (previous year: \u20ac36,988 thousand) and is fully paid up. It is divided into 36,988,336 no-par value shares.",
+                "retriever_score": 0.5714285714285714,
+                "final_score": 0.7927543435777937,
+                "from_table": {
+                    "id": 0,
+                    "row": -1,
+                    "col": -1
+                }
+            },
+            {
+                "text": "\u20ac36,988,336",
+                "probability": 0.5777409076690674,
+                "start_char": 0,
+                "end_char": 0,
+                "question": "How much is the capital share?",
+                "q_id": 17,
+                "title": "2019_INSTONE REAL ESTATE GROUP O.N..pdf",
+                "paragraph_id": "p93p8",
+                "paragraph": "7.3 By resolution of the Annual General Meeting on 13 June 2019, the Management Board was authorised, with the consent of the Supervisory Board, to acquire own shares from the end of this Annual General Meeting until 12 June 2024 up to a total of 10% of the share capital of \u20ac36,988,336 or the lower share capital figure at the time the authorisation is exercised, whereby the authorisation may be exercised in full or in partial amounts, once or several times. However, the shares acquired on the basis of the authorisation, together with other shares in the Company that the Company has already acquired and still owns, may not account for more than 10% of the existing share capital at any time. The authorisation may also be exercised by dependent companies or companies in which the Company holds a majority stake or by third parties for the account of the Company or by its dependent companies or companies in which the Company holds a majority stake.",
+                "retriever_score": 0.5714285714285714,
+                "final_score": 0.5771096740450178,
+                "from_table": {
+                    "id": 0,
+                    "row": -1,
+                    "col": -1
+                }
+            },
+            {
+                "text": "10%",
+                "probability": 0.5366649627685547,
+                "start_char": 0,
+                "end_char": 0,
+                "question": "How much is the capital share?",
+                "q_id": 17,
+                "title": "2019_INSTONE REAL ESTATE GROUP O.N..pdf",
+                "paragraph_id": "p92p3",
+                "paragraph": "The Management Board is authorised, with the consent of the Supervisory Board, to exclude shareholders' subscription rights to bonds (i) in order to exclude fractional amounts resulting from the subscription ratio from shareholders' subscription rights to the bonds, (ii) in order to issue bonds against cash payment, provided that this is done at an issue price that is in line with the recognised issue price, however, this authorisation to exclude subscription rights only applies to the extent that the shares issued or to be issued to service the option or conversion rights or to fulfil the conversion obligation do not account for more than 10% of the share capital. The capital stock figure on the effective date of this authorisation is decisive when calculating this limit.",
+                "retriever_score": 0.5714285714285714,
+                "final_score": 0.5401413236345564,
+                "from_table": {
+                    "id": 0,
+                    "row": -1,
+                    "col": -1
+                }
+            }
+        ],
+        "18": [
+            {
+                "text": "Frankfurt am Main",
+                "probability": 0.8610326647758484,
+                "start_char": 0,
+                "end_char": 0,
+                "question": "On which stock exchange are the company shares listed?",
+                "q_id": 18,
+                "title": "2019_INSTONE REAL ESTATE GROUP O.N..pdf",
+                "paragraph_id": "p94p1",
+                "paragraph": "In the case of a purchase via a public offer, the Company may either publish a formal offer or publicly request the submission of offers for sale. The purchase price offered (excluding incidental acquisition costs) or the limit values of the purchase price range per share set by the Company (excluding incidental acquisition costs) must be no more than 10% above or below the arithmetic mean value of the share prices (final auction prices of the Instone Real Estate Group AG share in Xetra or a comparable successor system) on the stock exchange in Frankfurt am Main on the last three exchange trading days before the publication of the purchase offer or the invitation to tender.",
+                "retriever_score": 0.6,
+                "final_score": 0.8349293982982635,
+                "from_table": {
+                    "id": 0,
+                    "row": -1,
+                    "col": -1
+                }
+            },
+            {
+                "text": "Frankfurt Stock Exchange",
+                "probability": 0.827043890953064,
+                "start_char": 0,
+                "end_char": 0,
+                "question": "On which stock exchange are the company shares listed?",
+                "q_id": 18,
+                "title": "2019_INSTONE REAL ESTATE GROUP O.N..pdf",
+                "paragraph_id": "p70p3",
+                "paragraph": "We are continuously working to optimise the risk management system together with our independent partners. Instone Real Estate is subject to the appropriate regulatory framework conditions as a stock corporation listed on the Frankfurt Stock Exchange and has also voluntarily committed to comply with the German Corporate Governance Code (GCGC). All applicable internal guidelines, Rules of Procedure and measures designed to ensure a Group-wide standardised and structured approach to risk management are reviewed internally on a regular basis.",
+                "retriever_score": 0.6,
+                "final_score": 0.8043395018577575,
+                "from_table": {
+                    "id": 0,
+                    "row": -1,
+                    "col": -1
+                }
+            },
+            {
+                "text": "Frankfurt Stock Exchange",
+                "probability": 0.8197175860404968,
+                "start_char": 0,
+                "end_char": 0,
+                "question": "On which stock exchange are the company shares listed?",
+                "q_id": 18,
+                "title": "2019_INSTONE REAL ESTATE GROUP O.N..pdf",
+                "paragraph_id": "p104p0",
+                "paragraph": "On 13 February 2018 we were converted into a Dutch \"stock corporation (naamloze vennootschap) and changed our name to Instone Real Estate Group N.V. This took place in connection with the private placement of our shares (the \u201cPlacement\u201d) and admission for listing and trading on the regulated market of the Frankfurt Stock Exchange with simultaneous admission to the sub-segment of the corresponding market with additional admission requirements (Prime Standard) (the \u201cListing\u201d). On 28 August 2018, we were transformed into a stock corporation under German law through an identity-preserving, cross-border conversion of legal form and have since then been trading as Instone Real Estate Group AG.",
+                "retriever_score": 0.6,
+                "final_score": 0.7977458274364471,
+                "from_table": {
+                    "id": 0,
+                    "row": -1,
+                    "col": -1
+                }
+            }
+        ],
+        "25": [
+            {
+                "text": "Kruno Crepulja",
+                "probability": 0.9356805086135864,
+                "start_char": 0,
+                "end_char": 0,
+                "question": "Who is the CEO/co-CEO of the company?",
+                "q_id": 25,
+                "title": "2019_INSTONE REAL ESTATE GROUP O.N..pdf",
+                "paragraph_id": "p98p0",
+                "paragraph": "Other disclosures Corporate governance statement and corporate governance report (UNAUDI TED) COMBINED MANAGEMENT REPORT Instone Real Estate Group AG \u2013 organisational chart Kruno Crepulja (CEO) Dr. Foruhar Madjlessi (CFO) Strategy/business development Mergers & acquisitions Project Service Corporate communications Purchasing IT Modular planning and building Controlling Commercial project management Financing Finance and accounting Tax Legal1 Andreas Gr\u00e4f (COO) Product Development Marketing Human Resources Sales IRE_D COOs Process and Risk Managemen2 Investor relations IRE CFOs 1 Including c orporate and capital markets as well as support for the Supervisory Board. 2 Including auditing, compliance, data protection.",
+                "retriever_score": 0.9666666666666667,
+                "final_score": 0.9387791244188944,
+                "from_table": {
+                    "id": 0,
+                    "row": -1,
+                    "col": -1
+                }
+            },
+            {
+                "text": "Kruno Crepulja",
+                "probability": 0.9318773150444031,
+                "start_char": 0,
+                "end_char": 0,
+                "question": "Who is the CEO/co-CEO of the company?",
+                "q_id": 25,
+                "title": "2019_INSTONE REAL ESTATE GROUP O.N..pdf",
+                "paragraph_id": "p33p1",
+                "paragraph": "We maintain an intensive dialogue with local authorities and those at national level. In this way, Instone Real Estate contributes suitable measures to maintain or improve the political environment for the development of housing. For example, our CEO, Kruno Crepulja, is Deputy Chairman of the Central Real Estate Committee (ZIA).",
+                "retriever_score": 0.9666666666666667,
+                "final_score": 0.9353562502066295,
+                "from_table": {
+                    "id": 0,
+                    "row": -1,
+                    "col": -1
+                }
+            },
+            {
+                "text": "Dr Jochen Scharpe",
+                "probability": 0.8969231247901917,
+                "start_char": 0,
+                "end_char": 0,
+                "question": "Who is the CEO/co-CEO of the company?",
+                "q_id": 25,
+                "title": "2019_INSTONE REAL ESTATE GROUP O.N..pdf",
+                "paragraph_id": "p141p0",
+                "paragraph": "Other disclosures NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS Andreas Gr\u00e4f \u2192 \u2192 Member of the Management Board \u2192\u2192 COO of Instone Real Estate Group AG Dr Jochen Scharpe, Managing Director of AMCi and ReTurn Immobilien GmbH \u2192\u2192 COO of Instone Real Estate Development GmbH for the North Rhine-Westphalia and Rhine-Main branches Former members of the Management Board as at 31 December 2019: Torsten Kracht \u2192\u2192 Member of the Management Board \u2192\u2192 CSO of Instone Real Estate Group AG \u2192\u2192 Managing Director of Instone Real Estate Leipzig GmbH \u2192\u2192 COO of Instone Real Estate Development GmbH for Saxony Members of the Supervisory Board GRI 102-22; 102-23; 102-25 Stefan Brendgen, independent management consultant In addition to his function as Chairman of the Supervisory Board of the Company, Mr Brendgen is a member of the following other statutory supervisory boards and comparable domestic and foreign supervisory bodies of commercial enterprises: \u2192\u2192 aamundo asset Management GmbH & Co. KGaA (Chairman of the Supervisory Board) \u2192\u2192 Climeon AB (member of the Supervisory Board) \u2192\u2192 HAHN-Immobilien-Beteiligungs AG (member of the Supervisory Board) INS TONE REAL E S TATE \u2013 ANNUAL REPORT 2019 142 In addition to his function as Deputy Chairman of the Supervisory Board of the Company, Dr Scharpe is a member of the following other statutory supervisory boards and comparable domestic and foreign supervisory bodies of commercial enterprises: \u2192\u2192 FFIRE AG (Deputy Chairman of the Supervisory Board) \u2192\u2192 LEG Immobilien AG (member of the Supervisory Board) Marija Korsch, Chairman of the Supervisory Board of Aareal Bank AG In addition to her function as a member of the Supervisory Board of the Company, Ms Korsch is a member of the following other statutory supervisory boards and comparable domestic and foreign supervisory bodies of commercial enterprises: \u2192\u2192 Aareal Bank AG (Chairperson of the Supervisory Board) \u2192\u2192 Just Software AG (member of the Supervisory Board) \u2192\u2192 Nomura Financial Products GmbH (member of the Supervisory Board) Dietmar P. Binkowska, independent management consultant Mr Binkowska is not a member of any other statutory supervisory boards or comparable domestic and foreign supervisory bodies of commercial enterprises in addition to his function as a member of the Supervisory Board of the Company.",
+                "retriever_score": 0.9666666666666667,
+                "final_score": 0.9038974789778392,
+                "from_table": {
+                    "id": 0,
+                    "row": -1,
+                    "col": -1
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,368 @@
+{
+    "1": {
+        "id": 1,
+        "keywords": [
+            "name",
+            "company",
+            "General Meeting",
+            "incorporated",
+            "headquarter",
+            "parent",
+            "board of management"
+        ],
+        "question_text": "What is the full legal name of the company?",
+        "question_templates": [
+            "What is the legal name of the company #1_the company#?"
+        ],
+        "yesno": 0,
+        "ner": [
+            "COMPANY"
+        ],
+        "eat": [
+            "COMPANY"
+        ],
+        "preferred_document_types": [
+            "ANNUAL_REPORT",
+            "COMPANY_REGISTRY"
+        ],
+        "methods": [
+            "KEYWORD_MATCH",
+            "NAMED_ENTITY_MATCH"
+        ],
+        "table_keywords": [
+            "business name"
+        ],
+        "depending_on_question_ids": [ ],
+        "brex_data_fields": [
+                "name"
+            ]
+    },
+    "5": {
+        "id": 5,
+        "keywords": [
+            "Unique identifying number",
+            "Commercial Registry Number",
+            "Incorporation Number",
+            "corporate identification number",
+            "Identification number",
+            "Commercial Register",
+            "Employer Identification No.",
+            "registered in the Commercial Register",
+            "Handelsregister",
+            "L'identification",
+            "Firmennummer",
+            "Aktiebolaget"
+        ],
+        "question_text": "What is the identification number of the company?",
+        "question_templates": [
+            "What is the identification number of #1_the company#?",
+            "What is the register number of #1_the company#?",
+            "What is the entry number of #1_the company#?"
+        ],
+        "yesno": 0,
+        "ner": [ ],
+        "eat": [
+            "SPEC_NUMBER"
+        ],
+        "preferred_document_types": [
+            "ANNUAL_REPORT",
+            "COMPANY_REGISTRY"
+        ],
+        "methods": [
+            "KEYWORD_MATCH"
+        ],
+        "table_keywords": [
+            "identification number"
+        ],
+        "depending_on_question_ids": [ ],
+        "brex_data_fields": [
+                "registrationNumber", "extraData;newNum"
+            ]
+    },
+    "6": {
+        "id": 6,
+        "keywords": [
+            "reincorporated",
+            "incorporated",
+            "Commercial Register",
+            "Handelsregister",
+            "Handelsregisteramt",
+            "registered office",
+            "registered"
+        ],
+        "question_text": "Which commercial register is the company registered in?",
+        "question_templates": [
+            "Which commercial register is #1_the company# registered in?",
+            "Which court is #1_the company# registered in?"
+        ],
+        "yesno": 0,
+        "ner": [
+            "ORG",
+            "GPE"
+        ],
+        "eat": [ ],
+        "preferred_document_types": [
+            "ANNUAL_REPORT",
+            "COMPANY_REGISTRY"
+        ],
+        "methods": [
+            "KEYWORD_MATCH",
+            "NAMED_ENTITY_MATCH"
+        ],
+        "table_keywords": [ ],
+        "depending_on_question_ids": [ ],
+        "brex_data_fields": [
+                "extraData;registerCourt"
+            ]
+    },
+    "7": {
+        "id": 7,
+        "keywords": [
+            "reincorporated",
+            "incorporated",
+            "incorporation",
+            "Entry",
+            "filed in",
+            "Commercial Register",
+            "Eintragung"
+        ],
+        "question_text": "What is the entry / incorporation date?",
+        "question_templates": [
+            "What is the date of incorporation?", "When was the company registered?"
+        ],
+        "yesno": 0,
+        "ner": [
+            "DATE"
+        ],
+        "eat": [
+            "DATE"
+        ],
+        "preferred_document_types": [
+            "ANNUAL_REPORT",
+            "COMPANY_REGISTRY"
+        ],
+        "methods": [
+            "KEYWORD_MATCH",
+            "NAMED_ENTITY_MATCH"
+        ],
+        "table_keywords": [
+            "entry"
+        ],
+        "depending_on_question_ids": [ ],
+        "brex_data_fields": [
+                "dateOfIncorporation"
+            ]
+    },
+    "9": {
+        "id": 9,
+        "keywords": [
+            "registered office",
+            "located at",
+            "registered",
+            "company",
+            "Commercial Register",
+            "company address",
+            "address"
+        ],
+        "question_text": "What is the company address?",
+        "question_templates": [
+            "Where is the registered office of #1_the company# located?",
+            "Where is the principal office of #1_the company# located?",
+            "Where is the legal seat?",
+            "What is the company address?"
+        ],
+        "yesno": 0,
+        "ner": [
+            "GPE"
+        ],
+        "eat": [
+            "ADDRESS"
+        ],
+        "preferred_document_types": [
+            "ANNUAL_REPORT",
+            "COMPANY_REGISTRY"
+        ],
+        "methods": [
+            "KEYWORD_MATCH",
+            "NAMED_ENTITY_MATCH"
+        ],
+        "table_keywords": [
+            "company address"
+        ],
+        "depending_on_question_ids": [ ],
+        "brex_data_fields": [
+                "address"
+            ]
+    },
+    "11": {
+        "id": 11,
+        "keywords": [
+            "Produkte",
+            "focus",
+            "retailers",
+            "world's largest",
+            "leading",
+            "suppliers",
+            "Focus on",
+            "concentrates on",
+            "products",
+            "producing",
+            "products",
+            "developed",
+            "contribute",
+            "global leader",
+            "corresponds",
+            "market leader in",
+            "leading global",
+            "interests",
+            "world leader",
+            "specializing",
+            "world’s largest",
+            "consists of"
+        ],
+        "question_text": "What is the company specializing in / leader in?",
+        "question_templates": [
+            "What is #1_the company# specializing in?",
+            "What does #1_the company# the leader in?"
+        ],
+        "yesno": 0,
+        "ner": [ ],
+        "eat": [ ],
+        "preferred_document_types": [
+            "ANNUAL_REPORT",
+            "COMPANY_REGISTRY"
+        ],
+        "methods": [
+            "KEYWORD_MATCH"
+        ],
+        "table_keywords": [ ],
+        "depending_on_question_ids": [ ],
+        "brex_data_fields": [
+                "extraData;activity"
+            ]
+    },
+    "12": {
+        "id": 12,
+        "keywords": [
+            "Corporate Executive Committee",
+            "Chairman of the Board of Management",
+            "CEO",
+            "Chief Executive Officer",
+            "Co-CEOs",
+            "Executive Board",
+            "Chief Executive"
+        ],
+        "question_text": "Who is the CEO/co-CEO of the company?",
+        "question_templates": [
+            "Who is the CEO/co-CEO of #1_the company#?"
+        ],
+        "yesno": 0,
+        "ner": [
+            "PERSON"
+        ],
+        "eat": [ ],
+        "preferred_document_types": [
+            "ANNUAL_REPORT",
+            "COMPANY_REGISTRY"
+        ],
+        "methods": [
+            "KEYWORD_MATCH",
+            "NAMED_ENTITY_MATCH"
+        ],
+        "table_keywords": [ ],
+        "depending_on_question_ids": [ ],
+        "brex_data_fields": [
+                "people;officer"
+            ]
+    },
+    "17": {
+        "id": 17,
+        "keywords": [
+            "share",
+            "shares",
+            "stock exchange",
+            "exchange",
+            "exchanges",
+            "listed",
+            "capital share",
+            "capital"
+        ],
+        "question_text": "How much is the capital share?",
+        "question_templates": [
+            "How much is the capital share?", "What is the total amount of shares listed?"
+        ],
+        "yesno": 0,
+        "ner": [ ],
+        "eat": [ ],
+        "preferred_document_types": [
+            "ANNUAL_REPORT",
+            "COMPANY_REGISTRY"
+        ],
+        "methods": [
+            "KEYWORD_MATCH"
+        ],
+        "table_keywords": [ ],
+        "depending_on_question_ids": [ ],
+        "brex_data_fields": [
+                "extraData;shareCapital"
+            ]
+    },
+      "18": {
+            "id": 18,
+            "keywords": [
+                "share",
+                "shares",
+                "stock exchange",
+                "exchange",
+                "exchanges",
+                "listed"
+            ],
+            "question_text": "On which stock exchange are the company shares listed?",
+            "question_templates": [
+                "On which stock exchange are #1_the company# shares listed?"
+            ],
+            "yesno": 0,
+            "ner": [ ],
+            "eat": [ ],
+            "preferred_document_types": [
+                "ANNUAL_REPORT",
+                "COMPANY_REGISTRY"
+            ],
+            "methods": [
+                "KEYWORD_MATCH"
+            ],
+            "table_keywords": [ ],
+            "depending_on_question_ids": [ ]
+        },
+     "25": {
+            "id": 25,
+            "keywords": [
+                "Corporate Executive Committee",
+                "Chairman of the Board of Management",
+                "CEO",
+                "Chief Executive Officer",
+                "Co-CEOs",
+                "Executive Board",
+                "Chief Executive"
+            ],
+            "question_text": "Who is the CEO\/co-CEO of the company?",
+            "question_templates": [
+                "Who is the CEO\/co-CEO of #1_the company#?"
+            ],
+            "yesno": 0,
+            "ner": [
+                "PERSON"
+            ],
+            "eat": [ ],
+            "preferred_document_types": [
+                "ANNUAL_REPORT",
+                "COMPANY_REGISTRY"
+            ],
+            "methods": [
+                "KEYWORD_MATCH",
+                "NAMED_ENTITY_MATCH"
+            ],
+            "table_keywords": [ ],
+            "depending_on_question_ids": [ ]
+        }
+}

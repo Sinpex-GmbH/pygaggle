@@ -1,0 +1,564 @@
+{
+    "predictions_dict": {
+        "1": [
+            {
+                "text": "Borussia Dortmund GmbH & Co. KGaA",
+                "probability": 0.9596648812294006,
+                "start_char": 0,
+                "end_char": 0,
+                "question": "What is the legal name of the company the company?",
+                "q_id": 1,
+                "title": "2018_BORUSSIA DORTMUND.pdf",
+                "paragraph_id": "p20p1",
+                "paragraph": "As a consequence, a Declaration of Conformity in accordance with \u00a7 161 AktG must be submitted by the management of the general partner and the Supervisory Board of Borussia Dortmund GmbH & Co. KGaA, taking into account the specific characteristics of the KGaA's legal form and the provisions of the Articles of Association. The Declaration of Conformity must be made permanently available to shareholders on the Company's website. It is published on the investor relations website, http://aktie.bvb.de/eng, under \"Corporate Governance\". The Declaration of Conformity submitted in September 2018 is an integral component of the Corporate Governance Declaration, and is also printed in the Notes to this report.",
+                "retriever_score": 1.0,
+                "final_score": 0.9636983931064605,
+                "from_table": {
+                    "id": 0,
+                    "row": -1,
+                    "col": -1
+                }
+            },
+            {
+                "text": "Borussia Dortmund Gesch\u00e4ftsf\u00fchrungs-GmbH",
+                "probability": 0.9420577883720398,
+                "start_char": 0,
+                "end_char": 0,
+                "question": "What is the legal name of the company the company?",
+                "q_id": 1,
+                "title": "2018_BORUSSIA DORTMUND.pdf",
+                "paragraph_id": "p21p6",
+                "paragraph": "The Notes to the financial statements and the management report contain disclosures on the remuneration of the general partner and the members of the Supervisory Board, and the Annual Report contains disclosures on the ownership of Company shares by the general partner and members of its management and by the members of the Supervisory Board. Due to the specific characteristics of the KGaA legal form, there exists no obligation to disclose the remuneration of individual Managing Directors of the general partner of the Company, Borussia Dortmund Gesch\u00e4ftsf\u00fchrungs-GmbH, as would normally be the case for the members of the executive boards of listed German stock corporations. Nonetheless, we have presented the remuneration of individual Managing Directors in the notes to the annual and consolidated financial statements on a voluntary basis.",
+                "retriever_score": 1.0,
+                "final_score": 0.9478520095348358,
+                "from_table": {
+                    "id": 0,
+                    "row": -1,
+                    "col": -1
+                }
+            },
+            {
+                "text": "Borussia Dortmund GmbH & Co. KGaA",
+                "probability": 0.9070561528205872,
+                "start_char": 0,
+                "end_char": 0,
+                "question": "What is the legal name of the company the company?",
+                "q_id": 1,
+                "title": "2018_BORUSSIA DORTMUND.pdf",
+                "paragraph_id": "p14p0",
+                "paragraph": "As it became increasingly clear that the team might be eliminated from the UEFA Champions League after a second disappointing draw against Apoel FC on 1 November 2017, shares in Borussia Dortmund slipped further, trading at EUR 6.85 on the following day. On 6 November 2017, Borussia Dortmund GmbH & Co. KGaA released the preliminary first quarter figures for financial year 2017/2018 (see ad hoc disclosure from the same date). The Company announced an approximately 77.3% increase in revenue to EUR 224.8 million and consolidated earnings of EUR 52.6 million for the quarter. Nevertheless, the share price remained under pressure. Shares in Borussia Dortmund traded at EUR 6.77 on 6 November 2017, EUR 6.58 on 10 November 2017, EUR 6.41 on 20 November 2017 and EUR 6.11 on 23 November 2017. BVB shares were listed at EUR 6.10 on 27 November 2017, the date of the Annual General Meeting (previous year: EUR 5.79).",
+                "retriever_score": 1.0,
+                "final_score": 0.9163505375385285,
+                "from_table": {
+                    "id": 0,
+                    "row": -1,
+                    "col": -1
+                }
+            }
+        ],
+        "5": [
+            {
+                "text": "HRB 14217",
+                "probability": 0.9580706357955933,
+                "start_char": 0,
+                "end_char": 0,
+                "question": "What is the register number of the company?",
+                "q_id": 5,
+                "title": "2018_BORUSSIA DORTMUND.pdf",
+                "paragraph_id": "p74p0",
+                "paragraph": "Borussia Dortmund GmbH & Co. KGaA has its registered office at Rheinlanddamm 207 \u2013 209, 44137 Dortmund, Germany, and is listed in the commercial register of the Local Court (Amtsgericht) of Dortmund under the number HRB 14217. There is an additional obligation in accordance with \u00a7 315e (1) HGB to prepare consolidated financial statements applying international financial reporting standards (IFRS) as adopted by the EU.",
+                "retriever_score": 1.0,
+                "final_score": 0.962263572216034,
+                "from_table": {
+                    "id": 0,
+                    "row": -1,
+                    "col": -1
+                }
+            },
+            {
+                "text": "14206",
+                "probability": 0.9066164493560791,
+                "start_char": 0,
+                "end_char": 0,
+                "question": "What is the register number of the company?",
+                "q_id": 5,
+                "title": "2018_BORUSSIA DORTMUND.pdf",
+                "paragraph_id": "p87p0",
+                "paragraph": "Borussia Dortmund Gesch\u00e4ftsf\u00fchrungs-GmbH is exempt from the restrictions contained in \u00a7 181 of the German Civil Code (B\u00fcrgerliches Gesetzbuch, \"BGB\") and is listed in the commercial register of the Local Court of Dortmund, HRB No. 14206. The managing directors EUR '000 Dipl.-Kfm. Hans-Joachim Watzke (Chairman) Fixed components Fixed remuneration Other remuneration Dipl.-Kfm.",
+                "retriever_score": 0.5,
+                "final_score": 0.8659548044204712,
+                "from_table": {
+                    "id": 0,
+                    "row": -1,
+                    "col": -1
+                }
+            },
+            {
+                "text": "15 1",
+                "probability": 0.4504912197589874,
+                "start_char": 0,
+                "end_char": 0,
+                "question": "What is the entry number of the company?",
+                "q_id": 5,
+                "title": "2018_BORUSSIA DORTMUND.pdf",
+                "paragraph_id": "p149p1",
+                "paragraph": "150 CONSOLIDATED FINANCIAL STATEMENTS for the period from 1 July 2017 to 30 June 2018 CONSOLIDATED STATEMENT OF CHANGES IN EQUITY of Borussia Dortmund GmbH & Co. KGaA EUR '000 Reserves Equity Other see note (9) 1 July 2016 Distributions to shareholders Subscribed capital 92,000 0 Acquisition of non-controlling interests without change of control 0 Sale of treasury shares Transactions with shareholders Other gains/losses incurred during the period, after taxes Total comprehensive income 30 June 2017 1 July 2017 Distributions to shareholders 0 0 Consolidated net profit for the year 0 0 0 92,000 92,000 0 Acquisition of non-controlling interests without change of control 0 Sale of treasury shares Transactions with shareholders Other gains/losses incurred during the period, after taxes Total comprehensive income Other reclassifications 30 June 2018 0 0 Consolidated net profit for the year 0 0 0 0 92,000 Capital 142,888 0 -45 0 -45 0 0 0 142,843 142,843 0 0 0 0 0 0 0 0 reserves reserves revenue Cash flow Treasury hedge shares 75,938 -5,519 0 0 -5,519 8,209 0 8,209 78,628 78,628 -5,519 0 0 -5,519 28,462 0 28,462 3 142,843 101,574 -1,171 0 0 0 0 0 115 115 -1,056 -1,056 0 0 0 0 0 1,059 1,059 -3 0 -113 0 0 0 0 0 0 0 -113 0 0 0 0 0 0 0 0 attributable to the owners of the parent company 309,542 -5,519 -45 0 -5,564 8,209 115 8,324 312,302 -5,519 0 0 -5,519 28,462 1,059 29,521 0 Consolidated equity 309,542 -5,519 -45 0 -5,564 8,209 115 8,324 -113 312,302 312,302 312,302 -5,519 0 0 -5,519 28,462 1,059 29,521 0 -113 336,304 336,304 151 BORUSSIA DORTMUND GmbH & Co. Kommanditgesellschaft auf Aktien, Dortmund NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS of Borussia Dortmund GmbH & Co. KGaA for the financial year from 1 July 2017 to 30 June 2018 (hereinafter also \"Borussia Dortmund\" or the \"Group\") BASIC PRINCIPLES General disclosures Borussia Dortmund GmbH & Co. KGaA (hereinafter also \"Borussia Dortmund\" or the \"Group\") has its registered office at Rheinlanddamm 207 \u2013 209, 44137 Dortmund, Germany, and is listed in the commercial register of the Local Court (Amtsgericht) of Dortmund under the number HRB 14217.",
+                "retriever_score": 1.0,
+                "final_score": 0.5054420977830887,
+                "from_table": {
+                    "id": 0,
+                    "row": -1,
+                    "col": -1
+                }
+            }
+        ],
+        "6": [
+            {
+                "text": "Dortmund",
+                "probability": 0.8703131675720215,
+                "start_char": 0,
+                "end_char": 0,
+                "question": "Which commercial register is the company registered in?",
+                "q_id": 6,
+                "title": "2018_BORUSSIA DORTMUND.pdf",
+                "paragraph_id": "p65p6",
+                "paragraph": "6. Because of its legal form as a partnership limited by shares, Borussia Dortmund GmbH & Co. KGaA does not have a management board. Instead, management and representation of the 66 MANAGEMENT REPORT Company is the responsibility of the general partner. The provisions of Article 6 No. 1 of the Articles of Association stipulate that Borussia Dortmund Gesch\u00e4ftsf\u00fchrungs-GmbH, with registered offices in Dortmund, is to act as such an executive body on a permanent basis and not for a limited period of time by virtue of its status as a shareholder. The appointment and removal of managing directors of Borussia Dortmund Gesch\u00e4ftsf\u00fchrungs-GmbH is governed by \u00a7 8 no. 6 of its shareholders' agreement and is the responsibility of the Executive Committee of its Advisory Board, and therefore not of the Supervisory Board of Borussia Dortmund GmbH & Co. KGaA.",
+                "retriever_score": 0.9354838709677419,
+                "final_score": 0.8768302379115935,
+                "from_table": {
+                    "id": 0,
+                    "row": -1,
+                    "col": -1
+                }
+            },
+            {
+                "text": "Dortmund",
+                "probability": 0.6767033338546753,
+                "start_char": 0,
+                "end_char": 0,
+                "question": "Which court is the company registered in?",
+                "q_id": 6,
+                "title": "2018_BORUSSIA DORTMUND.pdf",
+                "paragraph_id": "p141p6",
+                "paragraph": "6. Because of its legal form as a partnership limited by shares, Borussia Dortmund GmbH & Co. KGaA does not have a management board. Instead, management and representation of the Company is the responsibility of the general partner. The provisions of Article 6 No. 1 of the Articles of Association stipulate that Borussia 142 GROUP MANAGEMENT REPORT Dortmund Gesch\u00e4ftsf\u00fchrungs-GmbH, with registered offices in Dortmund, is to act as such an executive body on a permanent basis and not for a limited period of time by virtue of its status as a shareholder. The appointment and removal of managing directors of Borussia Dortmund Gesch\u00e4ftsf\u00fchrungs-GmbH is governed by \u00a7 8 no. 6 of its shareholders' agreement and is the responsibility of the Executive Committee of its Advisory Board, and therefore not of the Supervisory Board of Borussia Dortmund GmbH & Co. KGaA.",
+                "retriever_score": 0.9354838709677419,
+                "final_score": 0.702581387565982,
+                "from_table": {
+                    "id": 0,
+                    "row": -1,
+                    "col": -1
+                }
+            },
+            {
+                "text": "Local Court of Dortmund",
+                "probability": 0.5450453758239746,
+                "start_char": 0,
+                "end_char": 0,
+                "question": "Which court is the company registered in?",
+                "q_id": 6,
+                "title": "2018_BORUSSIA DORTMUND.pdf",
+                "paragraph_id": "p87p0",
+                "paragraph": "Borussia Dortmund Gesch\u00e4ftsf\u00fchrungs-GmbH is exempt from the restrictions contained in \u00a7 181 of the German Civil Code (B\u00fcrgerliches Gesetzbuch, \"BGB\") and is listed in the commercial register of the Local Court of Dortmund, HRB No. 14206. The managing directors EUR '000 Dipl.-Kfm. Hans-Joachim Watzke (Chairman) Fixed components Fixed remuneration Other remuneration Dipl.-Kfm.",
+                "retriever_score": 0.9354838709677419,
+                "final_score": 0.5840892253383514,
+                "from_table": {
+                    "id": 0,
+                    "row": -1,
+                    "col": -1
+                }
+            }
+        ],
+        "7": [
+            {
+                "text": "26 February 2018",
+                "probability": 0.7347085475921631,
+                "start_char": 0,
+                "end_char": 0,
+                "question": "When was the company registered?",
+                "q_id": 7,
+                "title": "2018_BORUSSIA DORTMUND.pdf",
+                "paragraph_id": "p90p4",
+                "paragraph": "On 26 February 2018, Dimensional Holdings Inc., Austin, Texas, USA, filed notice that its voting interest in Borussia Dortmund GmbH & Co. KGaA amounted to 3.01% (2,770,661 shares) on 20 February 2018 and that under \u00a7 34 WpHG, all of those voting rights were attributable to Dimensional Holdings Inc.",
+                "retriever_score": 1.0,
+                "final_score": 0.7612376928329467,
+                "from_table": {
+                    "id": 0,
+                    "row": -1,
+                    "col": -1
+                }
+            },
+            {
+                "text": "26 February 2018",
+                "probability": 0.7347085475921631,
+                "start_char": 0,
+                "end_char": 0,
+                "question": "When was the company registered?",
+                "q_id": 7,
+                "title": "2018_BORUSSIA DORTMUND.pdf",
+                "paragraph_id": "p190p2",
+                "paragraph": "On 26 February 2018, Dimensional Holdings Inc., Austin, Texas, USA, filed notice that its voting interest in Borussia Dortmund GmbH & Co. KGaA amounted to 3.01% (2,770,661 shares) on 20 February 2018 and that under \u00a7 34 WpHG, all of those voting rights were attributable to Dimensional Holdings Inc.",
+                "retriever_score": 1.0,
+                "final_score": 0.7612376928329467,
+                "from_table": {
+                    "id": 0,
+                    "row": -1,
+                    "col": -1
+                }
+            },
+            {
+                "text": "16 March 2018",
+                "probability": 0.7089871764183044,
+                "start_char": 0,
+                "end_char": 0,
+                "question": "When was the company registered?",
+                "q_id": 7,
+                "title": "2018_BORUSSIA DORTMUND.pdf",
+                "paragraph_id": "p90p3",
+                "paragraph": "On 16 March 2018, Dimensional Holdings Inc., Austin, Texas, USA, filed notice that its voting interest in Borussia Dortmund GmbH & Co. KGaA amounted to 3.01% (2,770,661 shares) on 9 March 2018, as well as that under \u00a7 34 WpHG, 2.98% of the voting interest (2,745,825 shares) is attributable to Dimensional Holdings Inc. and that 0.03% of the voting interest (24,836 shares) was held under a right of recall in accordance with \u00a7 38 (1) sentence 1 no. 1 WpHG.",
+                "retriever_score": 1.0,
+                "final_score": 0.738088458776474,
+                "from_table": {
+                    "id": 0,
+                    "row": -1,
+                    "col": -1
+                }
+            }
+        ],
+        "9": [
+            {
+                "text": "DORTMUND",
+                "probability": 0.966732919216156,
+                "start_char": 0,
+                "end_char": 0,
+                "question": "Where is the principal office of the company located?",
+                "q_id": 9,
+                "title": "2018_BORUSSIA DORTMUND.pdf",
+                "paragraph_id": "p114p4",
+                "paragraph": "DFB cup round of 16 20 December 2017 FC Bayern M\u00fcnchen BVB 2:1 18th match day 14 January 2018 BVB VFL Wolfsburg 0:0 115 BORUSSIA DORTMUND GmbH & Co. Kommanditgesellschaft auf Aktien, Dortmund POSITION OF THE COMPANY DEVELOPMENT OF PERFORMANCE INDICATORS Development of financial performance indicators In the 2017/2018 financial year, Borussia Dortmund's financial performance indicators \u2013 revenue, result from operating activities (EBIT), operating result (EBITDA), net profit/net loss for the year and cash flows from operating activities \u2013 were as follows: Revenue Revenue amounted to EUR 536,043 thousand in the reporting period. In the Annual Report as at 30 June 2017, Borussia Dortmund forecast revenue of EUR 365,000 thousand for the current financial year. This forecast was exceeded significantly on the back of unexpectedly high transfer income.",
+                "retriever_score": 0.90625,
+                "final_score": 0.9606846272945404,
+                "from_table": {
+                    "id": 0,
+                    "row": -1,
+                    "col": -1
+                }
+            },
+            {
+                "text": "Dortmund",
+                "probability": 0.9465827941894531,
+                "start_char": 0,
+                "end_char": 0,
+                "question": "Where is the registered office of the company located?",
+                "q_id": 9,
+                "title": "2018_BORUSSIA DORTMUND.pdf",
+                "paragraph_id": "p149p1",
+                "paragraph": "150 CONSOLIDATED FINANCIAL STATEMENTS for the period from 1 July 2017 to 30 June 2018 CONSOLIDATED STATEMENT OF CHANGES IN EQUITY of Borussia Dortmund GmbH & Co. KGaA EUR '000 Reserves Equity Other see note (9) 1 July 2016 Distributions to shareholders Subscribed capital 92,000 0 Acquisition of non-controlling interests without change of control 0 Sale of treasury shares Transactions with shareholders Other gains/losses incurred during the period, after taxes Total comprehensive income 30 June 2017 1 July 2017 Distributions to shareholders 0 0 Consolidated net profit for the year 0 0 0 92,000 92,000 0 Acquisition of non-controlling interests without change of control 0 Sale of treasury shares Transactions with shareholders Other gains/losses incurred during the period, after taxes Total comprehensive income Other reclassifications 30 June 2018 0 0 Consolidated net profit for the year 0 0 0 0 92,000 Capital 142,888 0 -45 0 -45 0 0 0 142,843 142,843 0 0 0 0 0 0 0 0 reserves reserves revenue Cash flow Treasury hedge shares 75,938 -5,519 0 0 -5,519 8,209 0 8,209 78,628 78,628 -5,519 0 0 -5,519 28,462 0 28,462 3 142,843 101,574 -1,171 0 0 0 0 0 115 115 -1,056 -1,056 0 0 0 0 0 1,059 1,059 -3 0 -113 0 0 0 0 0 0 0 -113 0 0 0 0 0 0 0 0 attributable to the owners of the parent company 309,542 -5,519 -45 0 -5,564 8,209 115 8,324 312,302 -5,519 0 0 -5,519 28,462 1,059 29,521 0 Consolidated equity 309,542 -5,519 -45 0 -5,564 8,209 115 8,324 -113 312,302 312,302 312,302 -5,519 0 0 -5,519 28,462 1,059 29,521 0 -113 336,304 336,304 151 BORUSSIA DORTMUND GmbH & Co. Kommanditgesellschaft auf Aktien, Dortmund NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS of Borussia Dortmund GmbH & Co. KGaA for the financial year from 1 July 2017 to 30 June 2018 (hereinafter also \"Borussia Dortmund\" or the \"Group\") BASIC PRINCIPLES General disclosures Borussia Dortmund GmbH & Co. KGaA (hereinafter also \"Borussia Dortmund\" or the \"Group\") has its registered office at Rheinlanddamm 207 \u2013 209, 44137 Dortmund, Germany, and is listed in the commercial register of the Local Court (Amtsgericht) of Dortmund under the number HRB 14217.",
+                "retriever_score": 1.0,
+                "final_score": 0.9519245147705078,
+                "from_table": {
+                    "id": 0,
+                    "row": -1,
+                    "col": -1
+                }
+            },
+            {
+                "text": "Dortmund",
+                "probability": 0.9873210191726685,
+                "start_char": 0,
+                "end_char": 0,
+                "question": "Where is the registered office of the company located?",
+                "q_id": 9,
+                "title": "2018_BORUSSIA DORTMUND.pdf",
+                "paragraph_id": "p65p6",
+                "paragraph": "6. Because of its legal form as a partnership limited by shares, Borussia Dortmund GmbH & Co. KGaA does not have a management board. Instead, management and representation of the 66 MANAGEMENT REPORT Company is the responsibility of the general partner. The provisions of Article 6 No. 1 of the Articles of Association stipulate that Borussia Dortmund Gesch\u00e4ftsf\u00fchrungs-GmbH, with registered offices in Dortmund, is to act as such an executive body on a permanent basis and not for a limited period of time by virtue of its status as a shareholder. The appointment and removal of managing directors of Borussia Dortmund Gesch\u00e4ftsf\u00fchrungs-GmbH is governed by \u00a7 8 no. 6 of its shareholders' agreement and is the responsibility of the Executive Committee of its Advisory Board, and therefore not of the Supervisory Board of Borussia Dortmund GmbH & Co. KGaA.",
+                "retriever_score": 0.46875,
+                "final_score": 0.9354639172554017,
+                "from_table": {
+                    "id": 0,
+                    "row": -1,
+                    "col": -1
+                }
+            }
+        ],
+        "11": [
+            {
+                "text": "internal reporting",
+                "probability": 0.7120608687400818,
+                "start_char": 0,
+                "end_char": 0,
+                "question": "What does the company the leader in?",
+                "q_id": 11,
+                "title": "2018_BORUSSIA DORTMUND.pdf",
+                "paragraph_id": "p29p3",
+                "paragraph": "30 MANAGEMENT REPORT FINANCIAL PERFORMANCE FINANCIAL INDICATORS Borussia Dortmund KGaA (HGB) EUR '000 Equity Capital expenditure Gross revenue Operating result (EBITDA) Result from operating activities (EBIT) Financial result (investment income and net interest expense) Net profit for the year Cash flows from operating activities Free cash flow Number of shares (in thousands) Earnings per share (in EUR) 2017/2018 30/06/2018 369,193 138,539 498,037 118,726 30,301 -690 26,405 156,861 18,391 92,000 0.29 2016/2017 30/06/2017 348,307 104,506 356,390 61,040 51 7,514 6,339 106,401 1,989 92,000 0.07 PERFORMANCE INDICATORS Various financial and non-financial indicators are used to measure performance. Borussia Dortmund uses these internally-defined performance indicators to guide its entrepreneurial actions and to select the focus of its internal reporting.",
+                "retriever_score": 0.3333333333333334,
+                "final_score": 0.6741881151994069,
+                "from_table": {
+                    "id": 0,
+                    "row": -1,
+                    "col": -1
+                }
+            },
+            {
+                "text": "growing brand awareness on a global scale and tapping the corresponding foreign markets",
+                "probability": 0.6540926694869995,
+                "start_char": 0,
+                "end_char": 0,
+                "question": "What is the company specializing in?",
+                "q_id": 11,
+                "title": "2018_BORUSSIA DORTMUND.pdf",
+                "paragraph_id": "p62p5",
+                "paragraph": "Commercially successful professional football operations are no longer limited to just regional or national levels. In order to create new business segments, the focus is increasingly shifting to growing brand awareness on a global scale and tapping the corresponding foreign markets. In order to be financially successful on the international stage, Borussia Dortmund's focus rests squarely on the squad's footballing success, including in international competitions. Qualifying for the group stage of the UEFA Champions League alone continues to place Borussia Dortmund in a better financial position.",
+                "retriever_score": 0.6666666666666669,
+                "final_score": 0.6553500692049662,
+                "from_table": {
+                    "id": 0,
+                    "row": -1,
+                    "col": -1
+                }
+            },
+            {
+                "text": "growing brand awareness on a global scale and tapping the corresponding foreign markets",
+                "probability": 0.6540926694869995,
+                "start_char": 0,
+                "end_char": 0,
+                "question": "What is the company specializing in?",
+                "q_id": 11,
+                "title": "2018_BORUSSIA DORTMUND.pdf",
+                "paragraph_id": "p137p5",
+                "paragraph": "Commercially successful professional football operations are no longer limited to just regional or national levels. In order to create new business segments, the focus is increasingly shifting to growing brand awareness on a global scale and tapping the corresponding foreign markets. In order to be financially successful on the international stage, Borussia Dortmund's focus rests squarely on the squad's footballing success, including in international competitions. Qualifying for the group stage of the UEFA Champions League alone continues to place Borussia Dortmund in a better financial position.",
+                "retriever_score": 0.6666666666666669,
+                "final_score": 0.6553500692049662,
+                "from_table": {
+                    "id": 0,
+                    "row": -1,
+                    "col": -1
+                }
+            }
+        ],
+        "12": [
+            {
+                "text": "Hans-Joachim Watzke",
+                "probability": 0.767373263835907,
+                "start_char": 0,
+                "end_char": 0,
+                "question": "Who is the CEO/co-CEO of the company?",
+                "q_id": 12,
+                "title": "2018_BORUSSIA DORTMUND.pdf",
+                "paragraph_id": "p22p4",
+                "paragraph": "Re section 4.2.1 sentence 2: The Supervisory Board of Borussia Dortmund GmbH & Co. KGaA has no authority to appoint and dismiss Managing Directors of Borussia Dortmund Gesch\u00e4ftsf\u00fchrungs-GmbH or to stipulate the terms of their service agreements; this is incumbent upon the Executive Committee of Borussia Dortmund Gesch\u00e4ftsf\u00fchrungs-GmbH. Its managing directors are Hans-Joachim Watzke (since February 2005, CEO since January 2006), Thomas Tre\u00df (since January 2006) and Carsten Cramer (since March 2018).",
+                "retriever_score": 0.9375,
+                "final_score": 0.7843859374523163,
+                "from_table": {
+                    "id": 0,
+                    "row": -1,
+                    "col": -1
+                }
+            },
+            {
+                "text": "Hans-Joachim Watzke",
+                "probability": 0.502757728099823,
+                "start_char": 0,
+                "end_char": 0,
+                "question": "Who is the CEO/co-CEO of the company?",
+                "q_id": 12,
+                "title": "2018_BORUSSIA DORTMUND.pdf",
+                "paragraph_id": "p10p2",
+                "paragraph": "Personnel Matters In February 2018, the Executive Committee of the Advisory Board of Borussia Dortmund Gesch\u00e4fts f\u00fchrungs-GmbH and Chairman of the management, Hans-Joachim Watzke, agreed to extend his existing service agreement (originally set to expire on 31 December 2019) until 31 December 2022. Agreement was likewise reached with Managing Director Thomas Tre\u00df to extend his service agreement (originally set to expire on 30 June 2020) until 30 June 2022. The former Head of Sales & Marketing, Carsten Cramer, was appointed as a subsequent managing director with effect as at 1 March 2018. His service agreement also runs until 30 June 2022.",
+                "retriever_score": 0.9375,
+                "final_score": 0.5462319552898407,
+                "from_table": {
+                    "id": 0,
+                    "row": -1,
+                    "col": -1
+                }
+            },
+            {
+                "text": "Hans-Joachim Watzke",
+                "probability": 0.1780070960521698,
+                "start_char": 0,
+                "end_char": 0,
+                "question": "Who is the CEO/co-CEO of the company?",
+                "q_id": 12,
+                "title": "2018_BORUSSIA DORTMUND.pdf",
+                "paragraph_id": "p11p0",
+                "paragraph": "Ulrich Leitermann Chairman of the Managing Boards of group parent companies of the SIGNAL IDUNA Group, Dortmund Bj\u00f8rn Gulden Chief Executive Officer of PUMA SE, Herzogen aurach Dr. Reinhold Lunow Medical Director of Praxisklinik Bornheim, Bornheim Silke Seidel Senior Executive at Dortmunder Stadtwerke AG and Managing Director of Hohenbuschei Beteiligungsgesellschaft mbH, Westfalentor 1 GmbH and Dortmund Logistik GmbH, all in Dortmund BORUSSIA DORTMUND GESCH\u00c4FTSF\u00dcHRUNGS-GmbH Management Hans-Joachim Watzke Thomas Tre\u00df Carsten Cramer Managing Director (Chairman) Managing Director Managing Director 12 Anlage 1.4 / 12 41009653-1376911 REPORT OF THE SUPERVISORY BOARD CORPORATE STRUCTURE BORUSSIA DORTMUND GmbH & Co. KGaA 100.00% BVB Stadionmanagement GmbH 100.00% besttravel dortmund GmbH 100.00% BVB Merchandising GmbH 100.00% Sports & Bytes GmbH 100.00% BVB Event & Catering GmbH 100.00% BVB Asia Pacific Pte.",
+                "retriever_score": 1.0,
+                "final_score": 0.2602063864469528,
+                "from_table": {
+                    "id": 0,
+                    "row": -1,
+                    "col": -1
+                }
+            }
+        ],
+        "17": [
+            {
+                "text": "EUR 92,000,000.00",
+                "probability": 0.696773886680603,
+                "start_char": 0,
+                "end_char": 0,
+                "question": "How much is the capital share?",
+                "q_id": 17,
+                "title": "2018_BORUSSIA DORTMUND.pdf",
+                "paragraph_id": "p141p0",
+                "paragraph": "REPORT IN ACCORDANCE WITH \u00a7 315A (1) HGB The following information has been provided by the Company in response to the requirements of \u00a7 315a (1) sentence 1 nos. 1 to 9 HGB: 1. As at 30 June 2018, the share capital of Borussia Dortmund GmbH & Co. KGaA amounts to EUR 92,000,000.00 and is divided into 92,000,000 nopar value ordinary bearer shares. All of the shares have been admitted to trading on the Regulated Market (Prime Standard) of the Frankfurt Stock Exchange and to the over-thecounter markets (Open Market) in Berlin, Bremen, Stuttgart, Munich, Hamburg and D\u00fcsseldorf. Each no-par value share entitles the holder to one vote at the Annual General Meeting. The Company has only one class of shares, and all shares carry the same rights and obligations. All other rights and responsibilities attaching to the Company's shares are determined in accordance with the German Stock Corporation Act (Aktiengesetz, \"AktG\").",
+                "retriever_score": 1.0,
+                "final_score": 0.7270964980125427,
+                "from_table": {
+                    "id": 0,
+                    "row": -1,
+                    "col": -1
+                }
+            },
+            {
+                "text": "EUR 92,000,000.00",
+                "probability": 0.6880661249160767,
+                "start_char": 0,
+                "end_char": 0,
+                "question": "How much is the capital share?",
+                "q_id": 17,
+                "title": "2018_BORUSSIA DORTMUND.pdf",
+                "paragraph_id": "p65p0",
+                "paragraph": "REPORT IN ACCORDANCE WITH \u00a7 289 (1) HGB The following information has been provided by the Company in response to the requirements of \u00a7 289 a (1) sentence 1 nos. 1 to 9 HGB: 1. As at 30 June 2018, the share capital of Borussia Dortmund GmbH & Co. KGaA amounts to EUR 92,000,000.00 and is divided into 92,000,000 nopar value ordinary bearer shares. All of the shares have been admitted to trading on the Regulated Market (Prime Standard) of the Frankfurt Stock Exchange and to the over-thecounter markets (Open Market) in Berlin, Bremen, Stuttgart, Munich, Hamburg and D\u00fcsseldorf. Each no-par value share entitles the holder to one vote at the Annual General Meeting. The Company has only one class of shares, and all shares carry the same rights and obligations. All other rights and responsibilities attaching to the Company's shares are determined in accordance with the German Stock Corporation Act (Aktiengesetz, \"AktG\").",
+                "retriever_score": 1.0,
+                "final_score": 0.719259512424469,
+                "from_table": {
+                    "id": 0,
+                    "row": -1,
+                    "col": -1
+                }
+            },
+            {
+                "text": "10%",
+                "probability": 0.7083737850189209,
+                "start_char": 0,
+                "end_char": 0,
+                "question": "What is the total amount of shares listed?",
+                "q_id": 17,
+                "title": "2018_BORUSSIA DORTMUND.pdf",
+                "paragraph_id": "p80p1",
+                "paragraph": "To this end, the statutory pre-emptive subscription rights of the limited liability shareholders may be disapplied: a) with respect to fractional amounts arising as a consequence of subscription ratios; b) in the event of capital increases against cash contributions up to a total amount of 10% of the share capital existing on the date of registration of the Authorized Capital 2014 or, Change in reserves EUR '000 Capital reserves Revenue reserves c) if lower, 10% of the share capital existing on the date of exercise of the authorisation (in each case taking into account any other authorisations made use of during the effective period of this authorisation for the disapplication of pre-emptive subscription rights pursuant to or through the correspon ding application of \u00a7 186 (3) sentence 4 of the AktG), provided the issue amount of the new shares does not fall significantly below the market price; in the event of capital increases against inkind contributions, particularly for the purpose of acquiring companies, equity interests, real estate, rights and claims against the company.",
+                "retriever_score": 0.6666666666666666,
+                "final_score": 0.7042030731836955,
+                "from_table": {
+                    "id": 0,
+                    "row": -1,
+                    "col": -1
+                }
+            }
+        ],
+        "18": [
+            {
+                "text": "Frankfurt Stock Exchange",
+                "probability": 0.7333242297172546,
+                "start_char": 0,
+                "end_char": 0,
+                "question": "On which stock exchange are the company shares listed?",
+                "q_id": 18,
+                "title": "2018_BORUSSIA DORTMUND.pdf",
+                "paragraph_id": "p132p0",
+                "paragraph": "A key component of this risk is the impact of these factors on potential corporate action in the future and the Company's appeal to business partners. This risk is countered through continual communication with the capital market. The shares have been listed on the Prime Standard segment of the Frankfurt Stock Exchange for the past four years and are also admitted to trading on the SDAX.",
+                "retriever_score": 1.0,
+                "final_score": 0.7599918067455291,
+                "from_table": {
+                    "id": 0,
+                    "row": -1,
+                    "col": -1
+                }
+            },
+            {
+                "text": "Dortmund",
+                "probability": 0.6602088212966919,
+                "start_char": 0,
+                "end_char": 0,
+                "question": "On which stock exchange are the company shares listed?",
+                "q_id": 18,
+                "title": "2018_BORUSSIA DORTMUND.pdf",
+                "paragraph_id": "p14p4",
+                "paragraph": "Shares traded at EUR 5.79 on 1 February 2018, EUR 5.81 on 2 February 2018 and EUR 5.84 on 5 February 2018. Despite positive athletic results, the shares of Borussia Dortmund were destined to lose these price gains quickly. BVB shares traded at EUR 5.62 on 6 February 2018 and 41009653-1376911 Anlage 1.4 / 15 15 BORUSSIA DORTMUND GmbH & Co. Kommanditgesellschaft auf Aktien, Dortmund EUR 5.49 on 9 February 2018. After Borussia Dortmund won against Atalanta Bergamo in the UEFA Europa League and presented solid halfyearly figures, the share price improved again. On 21 February 2018, BVB shares were listed at EUR 5.77 and on 23 February 2018 at EUR 5.84.",
+                "retriever_score": 0.7500000000000001,
+                "final_score": 0.6691879391670228,
+                "from_table": {
+                    "id": 0,
+                    "row": -1,
+                    "col": -1
+                }
+            },
+            {
+                "text": "Frankfurt Stock Exchange",
+                "probability": 0.5782654285430908,
+                "start_char": 0,
+                "end_char": 0,
+                "question": "On which stock exchange are the company shares listed?",
+                "q_id": 18,
+                "title": "2018_BORUSSIA DORTMUND.pdf",
+                "paragraph_id": "p65p0",
+                "paragraph": "REPORT IN ACCORDANCE WITH \u00a7 289 (1) HGB The following information has been provided by the Company in response to the requirements of \u00a7 289 a (1) sentence 1 nos. 1 to 9 HGB: 1. As at 30 June 2018, the share capital of Borussia Dortmund GmbH & Co. KGaA amounts to EUR 92,000,000.00 and is divided into 92,000,000 nopar value ordinary bearer shares. All of the shares have been admitted to trading on the Regulated Market (Prime Standard) of the Frankfurt Stock Exchange and to the over-thecounter markets (Open Market) in Berlin, Bremen, Stuttgart, Munich, Hamburg and D\u00fcsseldorf. Each no-par value share entitles the holder to one vote at the Annual General Meeting. The Company has only one class of shares, and all shares carry the same rights and obligations. All other rights and responsibilities attaching to the Company's shares are determined in accordance with the German Stock Corporation Act (Aktiengesetz, \"AktG\").",
+                "retriever_score": 1.0,
+                "final_score": 0.6204388856887817,
+                "from_table": {
+                    "id": 0,
+                    "row": -1,
+                    "col": -1
+                }
+            }
+        ],
+        "25": [
+            {
+                "text": "Hans-Joachim Watzke",
+                "probability": 0.767373263835907,
+                "start_char": 0,
+                "end_char": 0,
+                "question": "Who is the CEO/co-CEO of the company?",
+                "q_id": 25,
+                "title": "2018_BORUSSIA DORTMUND.pdf",
+                "paragraph_id": "p22p4",
+                "paragraph": "Re section 4.2.1 sentence 2: The Supervisory Board of Borussia Dortmund GmbH & Co. KGaA has no authority to appoint and dismiss Managing Directors of Borussia Dortmund Gesch\u00e4ftsf\u00fchrungs-GmbH or to stipulate the terms of their service agreements; this is incumbent upon the Executive Committee of Borussia Dortmund Gesch\u00e4ftsf\u00fchrungs-GmbH. Its managing directors are Hans-Joachim Watzke (since February 2005, CEO since January 2006), Thomas Tre\u00df (since January 2006) and Carsten Cramer (since March 2018).",
+                "retriever_score": 0.9375,
+                "final_score": 0.7843859374523163,
+                "from_table": {
+                    "id": 0,
+                    "row": -1,
+                    "col": -1
+                }
+            },
+            {
+                "text": "Hans-Joachim Watzke",
+                "probability": 0.502757728099823,
+                "start_char": 0,
+                "end_char": 0,
+                "question": "Who is the CEO/co-CEO of the company?",
+                "q_id": 25,
+                "title": "2018_BORUSSIA DORTMUND.pdf",
+                "paragraph_id": "p10p2",
+                "paragraph": "Personnel Matters In February 2018, the Executive Committee of the Advisory Board of Borussia Dortmund Gesch\u00e4fts f\u00fchrungs-GmbH and Chairman of the management, Hans-Joachim Watzke, agreed to extend his existing service agreement (originally set to expire on 31 December 2019) until 31 December 2022. Agreement was likewise reached with Managing Director Thomas Tre\u00df to extend his service agreement (originally set to expire on 30 June 2020) until 30 June 2022. The former Head of Sales & Marketing, Carsten Cramer, was appointed as a subsequent managing director with effect as at 1 March 2018. His service agreement also runs until 30 June 2022.",
+                "retriever_score": 0.9375,
+                "final_score": 0.5462319552898407,
+                "from_table": {
+                    "id": 0,
+                    "row": -1,
+                    "col": -1
+                }
+            },
+            {
+                "text": "Hans-Joachim Watzke",
+                "probability": 0.1780070960521698,
+                "start_char": 0,
+                "end_char": 0,
+                "question": "Who is the CEO/co-CEO of the company?",
+                "q_id": 25,
+                "title": "2018_BORUSSIA DORTMUND.pdf",
+                "paragraph_id": "p11p0",
+                "paragraph": "Ulrich Leitermann Chairman of the Managing Boards of group parent companies of the SIGNAL IDUNA Group, Dortmund Bj\u00f8rn Gulden Chief Executive Officer of PUMA SE, Herzogen aurach Dr. Reinhold Lunow Medical Director of Praxisklinik Bornheim, Bornheim Silke Seidel Senior Executive at Dortmunder Stadtwerke AG and Managing Director of Hohenbuschei Beteiligungsgesellschaft mbH, Westfalentor 1 GmbH and Dortmund Logistik GmbH, all in Dortmund BORUSSIA DORTMUND GESCH\u00c4FTSF\u00dcHRUNGS-GmbH Management Hans-Joachim Watzke Thomas Tre\u00df Carsten Cramer Managing Director (Chairman) Managing Director Managing Director 12 Anlage 1.4 / 12 41009653-1376911 REPORT OF THE SUPERVISORY BOARD CORPORATE STRUCTURE BORUSSIA DORTMUND GmbH & Co. KGaA 100.00% BVB Stadionmanagement GmbH 100.00% besttravel dortmund GmbH 100.00% BVB Merchandising GmbH 100.00% Sports & Bytes GmbH 100.00% BVB Event & Catering GmbH 100.00% BVB Asia Pacific Pte.",
+                "retriever_score": 1.0,
+                "final_score": 0.2602063864469528,
+                "from_table": {
+                    "id": 0,
+                    "row": -1,
+                    "col": -1
+                }
+            }
+        ]
+    }
+}

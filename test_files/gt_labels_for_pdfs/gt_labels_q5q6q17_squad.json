@@ -1,0 +1,585 @@
+{
+    "version": "v1.0",
+    "data": [
+        {
+            "title": "2018_BORUSSIA DORTMUND.pdf",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Which commercial register is the company registered in?",
+                            "id": "6-b0fb653c-abe5-4b06-8ce6-d006070a6aba",
+                            "answers": [
+                                {
+                                    "text": "Dortmund",
+                                    "answer_start": 403
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "6. Because of its legal form as a partnership limited by shares, Borussia Dortmund GmbH & Co. KGaA does not have a management board. Instead, management and representation of the 66 MANAGEMENT REPORT Company is the responsibility of the general partner. The provisions of Article 6 No. 1 of the Articles of Association stipulate that Borussia Dortmund Gesch\u00e4ftsf\u00fchrungs-GmbH, with registered offices in Dortmund, is to act as such an executive body on a permanent basis and not for a limited period of time by virtue of its status as a shareholder. The appointment and removal of managing directors of Borussia Dortmund Gesch\u00e4ftsf\u00fchrungs-GmbH is governed by \u00a7 8 no. 6 of its shareholders' agreement and is the responsibility of the Executive Committee of its Advisory Board, and therefore not of the Supervisory Board of Borussia Dortmund GmbH & Co. KGaA."
+                }
+            ]
+        },
+        {
+            "title": "2018_BORUSSIA DORTMUND.pdf",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Which commercial register is the company registered in?",
+                            "id": "6-7c4fdd0a-8a2e-4671-abf8-a59c7e155289",
+                            "answers": [
+                                {
+                                    "text": "Dortmund",
+                                    "answer_start": 190
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "Borussia Dortmund GmbH & Co. KGaA has its registered office at Rheinlanddamm 207 \u2013 209, 44137 Dortmund, Germany, and is listed in the commercial register of the Local Court (Amtsgericht) of Dortmund under the number HRB 14217. There is an additional obligation in accordance with \u00a7 315e (1) HGB to prepare consolidated financial statements applying international financial reporting standards (IFRS) as adopted by the EU."
+                }
+            ]
+        },
+        {
+            "title": "2018_BORUSSIA DORTMUND.pdf",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Which commercial register is the company registered in?",
+                            "id": "6-6e009fd3-73fe-43a6-8266-ef87e7aae580",
+                            "answers": [
+                                {
+                                    "text": "Dortmund",
+                                    "answer_start": 403
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "87 BORUSSIA DORTMUND GmbH & Co. Kommanditgesellschaft auf Aktien, Dortmund OTHER DISCLOSURES Corporate Governance The management and Supervisory Board of Borussia Dortmund GmbH & Co. KGaA issued the Declaration of Conformity with the German Corporate Governance Code required by \u00a7 161 of the General partner The general partner is Borussia Dortmund Gesch\u00e4ftsf\u00fchrungs-GmbH, whose registered office is in Dortmund and which does not have an interest in the Company's share capital. Its share capital amounts to EUR 30 thousand."
+                }
+            ]
+        },
+        {
+            "title": "2018_BORUSSIA DORTMUND.pdf",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Which commercial register is the company registered in?",
+                            "id": "6-f04c93f8-5134-4621-8233-3d876d2fb5b4",
+                            "answers": [
+                                {
+                                    "text": "Dortmund",
+                                    "answer_start": 213
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "Borussia Dortmund Gesch\u00e4ftsf\u00fchrungs-GmbH is exempt from the restrictions contained in \u00a7 181 of the German Civil Code (B\u00fcrgerliches Gesetzbuch, \"BGB\") and is listed in the commercial register of the Local Court of Dortmund, HRB No. 14206. The managing directors EUR '000 Dipl.-Kfm. Hans-Joachim Watzke (Chairman) Fixed components Fixed remuneration Other remuneration Dipl.-Kfm."
+                }
+            ]
+        },
+        {
+            "title": "2018_BORUSSIA DORTMUND.pdf",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Which commercial register is the company registered in?",
+                            "id": "6-92883150-15f0-473e-a9b5-b970804447ba",
+                            "answers": [
+                                {
+                                    "text": "Dortmund",
+                                    "answer_start": 410
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "6. Because of its legal form as a partnership limited by shares, Borussia Dortmund GmbH & Co. KGaA does not have a management board. Instead, management and representation of the Company is the responsibility of the general partner. The provisions of Article 6 No. 1 of the Articles of Association stipulate that Borussia 142 GROUP MANAGEMENT REPORT Dortmund Gesch\u00e4ftsf\u00fchrungs-GmbH, with registered offices in Dortmund, is to act as such an executive body on a permanent basis and not for a limited period of time by virtue of its status as a shareholder. The appointment and removal of managing directors of Borussia Dortmund Gesch\u00e4ftsf\u00fchrungs-GmbH is governed by \u00a7 8 no. 6 of its shareholders' agreement and is the responsibility of the Executive Committee of its Advisory Board, and therefore not of the Supervisory Board of Borussia Dortmund GmbH & Co. KGaA."
+                }
+            ]
+        },
+        {
+            "title": "2018_BORUSSIA DORTMUND.pdf",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Which commercial register is the company registered in?",
+                            "id": "6-b3ea35e2-d185-4bb8-a4e9-6c316ac3df7d",
+                            "answers": [
+                                {
+                                    "text": "Dortmund",
+                                    "answer_start": 1997
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "150 CONSOLIDATED FINANCIAL STATEMENTS for the period from 1 July 2017 to 30 June 2018 CONSOLIDATED STATEMENT OF CHANGES IN EQUITY of Borussia Dortmund GmbH & Co. KGaA EUR '000 Reserves Equity Other see note (9) 1 July 2016 Distributions to shareholders Subscribed capital 92,000 0 Acquisition of non-controlling interests without change of control 0 Sale of treasury shares Transactions with shareholders Other gains/losses incurred during the period, after taxes Total comprehensive income 30 June 2017 1 July 2017 Distributions to shareholders 0 0 Consolidated net profit for the year 0 0 0 92,000 92,000 0 Acquisition of non-controlling interests without change of control 0 Sale of treasury shares Transactions with shareholders Other gains/losses incurred during the period, after taxes Total comprehensive income Other reclassifications 30 June 2018 0 0 Consolidated net profit for the year 0 0 0 0 92,000 Capital 142,888 0 -45 0 -45 0 0 0 142,843 142,843 0 0 0 0 0 0 0 0 reserves reserves revenue Cash flow Treasury hedge shares 75,938 -5,519 0 0 -5,519 8,209 0 8,209 78,628 78,628 -5,519 0 0 -5,519 28,462 0 28,462 3 142,843 101,574 -1,171 0 0 0 0 0 115 115 -1,056 -1,056 0 0 0 0 0 1,059 1,059 -3 0 -113 0 0 0 0 0 0 0 -113 0 0 0 0 0 0 0 0 attributable to the owners of the parent company 309,542 -5,519 -45 0 -5,564 8,209 115 8,324 312,302 -5,519 0 0 -5,519 28,462 1,059 29,521 0 Consolidated equity 309,542 -5,519 -45 0 -5,564 8,209 115 8,324 -113 312,302 312,302 312,302 -5,519 0 0 -5,519 28,462 1,059 29,521 0 -113 336,304 336,304 151 BORUSSIA DORTMUND GmbH & Co. Kommanditgesellschaft auf Aktien, Dortmund NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS of Borussia Dortmund GmbH & Co. KGaA for the financial year from 1 July 2017 to 30 June 2018 (hereinafter also \"Borussia Dortmund\" or the \"Group\") BASIC PRINCIPLES General disclosures Borussia Dortmund GmbH & Co. KGaA (hereinafter also \"Borussia Dortmund\" or the \"Group\") has its registered office at Rheinlanddamm 207 \u2013 209, 44137 Dortmund, Germany, and is listed in the commercial register of the Local Court (Amtsgericht) of Dortmund under the number HRB 14217."
+                }
+            ]
+        },
+        {
+            "title": "2018_BORUSSIA DORTMUND.pdf",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Which commercial register is the company registered in?",
+                            "id": "6-dcc3bff4-e8bd-4818-927f-d2603e136c5a",
+                            "answers": [
+                                {
+                                    "text": "Dortmund",
+                                    "answer_start": 2093
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "150 CONSOLIDATED FINANCIAL STATEMENTS for the period from 1 July 2017 to 30 June 2018 CONSOLIDATED STATEMENT OF CHANGES IN EQUITY of Borussia Dortmund GmbH & Co. KGaA EUR '000 Reserves Equity Other see note (9) 1 July 2016 Distributions to shareholders Subscribed capital 92,000 0 Acquisition of non-controlling interests without change of control 0 Sale of treasury shares Transactions with shareholders Other gains/losses incurred during the period, after taxes Total comprehensive income 30 June 2017 1 July 2017 Distributions to shareholders 0 0 Consolidated net profit for the year 0 0 0 92,000 92,000 0 Acquisition of non-controlling interests without change of control 0 Sale of treasury shares Transactions with shareholders Other gains/losses incurred during the period, after taxes Total comprehensive income Other reclassifications 30 June 2018 0 0 Consolidated net profit for the year 0 0 0 0 92,000 Capital 142,888 0 -45 0 -45 0 0 0 142,843 142,843 0 0 0 0 0 0 0 0 reserves reserves revenue Cash flow Treasury hedge shares 75,938 -5,519 0 0 -5,519 8,209 0 8,209 78,628 78,628 -5,519 0 0 -5,519 28,462 0 28,462 3 142,843 101,574 -1,171 0 0 0 0 0 115 115 -1,056 -1,056 0 0 0 0 0 1,059 1,059 -3 0 -113 0 0 0 0 0 0 0 -113 0 0 0 0 0 0 0 0 attributable to the owners of the parent company 309,542 -5,519 -45 0 -5,564 8,209 115 8,324 312,302 -5,519 0 0 -5,519 28,462 1,059 29,521 0 Consolidated equity 309,542 -5,519 -45 0 -5,564 8,209 115 8,324 -113 312,302 312,302 312,302 -5,519 0 0 -5,519 28,462 1,059 29,521 0 -113 336,304 336,304 151 BORUSSIA DORTMUND GmbH & Co. Kommanditgesellschaft auf Aktien, Dortmund NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS of Borussia Dortmund GmbH & Co. KGaA for the financial year from 1 July 2017 to 30 June 2018 (hereinafter also \"Borussia Dortmund\" or the \"Group\") BASIC PRINCIPLES General disclosures Borussia Dortmund GmbH & Co. KGaA (hereinafter also \"Borussia Dortmund\" or the \"Group\") has its registered office at Rheinlanddamm 207 \u2013 209, 44137 Dortmund, Germany, and is listed in the commercial register of the Local Court (Amtsgericht) of Dortmund under the number HRB 14217."
+                }
+            ]
+        },
+        {
+            "title": "2019_CROPENERGIES AG.pdf",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Which commercial register is the company registered in?",
+                            "id": "6-595f6102-b0ee-40cd-9111-cfb1c5f5b954",
+                            "answers": [
+                                {
+                                    "text": "Mannheim",
+                                    "answer_start": 78
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "The company is registered in the commercial register at the district court of Mannheim under the number HRB 700509. Pursuant to \u00a7 2 of its articles of association of 16 November 2016, the object of the company is to acquire, hold and administer ownership interests in and establish other undertakings which are engaged, directly or indirectly, in the manufacture and distribution of bioethanol (agricultural alcohol), other biofuels and similar products which are produced from grain or other raw materials including the manufacture and distribution of co-products. CropEnergies AG is majority-owned by S\u00fcdzucker AG."
+                }
+            ]
+        },
+        {
+            "title": "2019_CROPENERGIES AG.pdf",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Which commercial register is the company registered in?",
+                            "id": "6-4ca6f51f-7a10-41ee-81dc-13344fd14bac",
+                            "answers": [
+                                {
+                                    "text": "Mannheim",
+                                    "answer_start": 743
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "Layout and Design: trio-group, Mannheim Print: abcdruck GmbH, Heidelberg \u00a9 2019 Financial calendar Statement for the 1st  quarter of 2019/20 Annual general meeting 2019 1st half-yearly report 2019/20 Statement for the 1st to 3rd quarters of 2019/20 Annual report press and analysts\u2019 conference financial year 2019/20 10 July 2019 16 July 2019 9 October 2019 13 January 2020 13 May 2020 Contacts CropEnergies AG Maximilianstra\u00dfe 10 68165 Mannheim Investor Relations Heike Baumbach Phone: +49 (621) 714190-30 Fax: +49 (621) 714190-03 ir@cropenergies.de Public Relations\u2009/\u2009Marketing Nadine Dejung-Custance\u2009/\u2009Clarissa Sonnenschein Phone: +49 (621) 714190-65 Fax: +49 (621) 714190-05 presse@cropenergies.de www.cropenergies.com Commercial Register Mannheim: HRB 700509 "
+                }
+            ]
+        },
+        {
+            "title": "2019_INSTONE REAL ESTATE GROUP O.N..pdf",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Which commercial register is the company registered in?",
+                            "id": "6-597dd308-a587-4bc3-ac19-ed2166fb3a05",
+                            "answers": [
+                                {
+                                    "text": "Essen",
+                                    "answer_start": 844
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "Other disclosures Takeover law disclosures COMBINED MANAGEMENT REPORT 7 POWERS OF THE MANAGEMENT BOARD TO ISSUE OR REPURCHASE SHARES 7.1 In accordance with Section 6.1 of the Articles of Association, the Management Board is authorised, with the approval of the Supervisory Board, to increase the Company's share capital until 28 June 2023 by up to a total of \u20ac18,450.00 by issuing up to a total of 18,450,000 new no-par-value shares against cash and/or non-cash contributions (Authorised Capital 2018) and, in accordance with Section 6.2 of the Articles of Association with the consent of the Supervisory Board, to exclude the subscription rights of shareholders under certain conditions and within predefined limits. The authorised capital became effective upon the registration of the Company in the commercial register of the Local Court of Essen (HRB 29362) during the cross-border conversion on 28\u202fAugust\u202f2018."
+                }
+            ]
+        },
+        {
+            "title": "2019_INSTONE REAL ESTATE GROUP O.N..pdf",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Which commercial register is the company registered in?",
+                            "id": "6-4cf91730-84cb-4849-af5e-29bc37c4c5a4",
+                            "answers": [
+                                {
+                                    "text": "Essen",
+                                    "answer_start": 210
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "The conversion became legally effective upon registration of Instone Real Estate Group N.V. under number 60490861 on 13 February 2018 at the Dutch Chamber of Commerce and Industry, registered ex officio at the Essen District Court under HRB 26426 on 14 May 2018."
+                }
+            ]
+        },
+        {
+            "title": "2019_INSTONE REAL ESTATE GROUP O.N..pdf",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Which commercial register is the company registered in?",
+                            "id": "6-79f05130-4734-4849-812a-f424ab99086a",
+                            "answers": [
+                                {
+                                    "text": "Essen",
+                                    "answer_start": 188
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "The first Annual General Meeting held on 29 June 2018 resolved to convert the Company into a stock corporation under the laws of Germany. The cross border conversion was registered at the Essen District Court under HR\u202fB 29362 on 28 August 2018."
+                }
+            ]
+        },
+        {
+            "title": "2019_INSTONE REAL ESTATE GROUP O.N..pdf",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Which commercial register is the company registered in?",
+                            "id": "6-fe4bcc5b-d310-452e-83da-d458f4c5b54a",
+                            "answers": [
+                                {
+                                    "text": "Essen",
+                                    "answer_start": 242
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "Waiver of the disclosure of information and the preparation of the management report in accordance with Section 264(3) HGB Instone Real Estate Development GmbH, headquartered in Essen, Germany and registered in the Commercial Register of the Essen District Court under HRB 28401, complies with the requirements set out in Section 264(3) HGB and is therefore exempt from disclosure of information in its annual financial statements and the preparation of a management report."
+                }
+            ]
+        },
+        {
+            "title": "2019_INSTONE REAL ESTATE GROUP O.N..pdf",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Which commercial register is the company registered in?",
+                            "id": "6-36921bb3-4595-4932-b4c0-1bd4012728c1",
+                            "answers": [
+                                {
+                                    "text": "Essen",
+                                    "answer_start": 748
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "Essen, 13 March 2020 The Management Board Kruno Crepulja Dr. Foruhar Madjlessi Andreas Gr\u00e4f INS TONE REAL E S TATE \u2013 ANNUAL REPORT 2 019 158 CONTACT ABOUT US F INANCI AL CALENDAR OTHER INFORMATION CONTACT Thomas Eisenlohr Head of Investor Relations Instone Real Estate Group AG Grugaplatz 2\u2009\u2013\u20094, 45131 Essen, Germany Telephone: +49 201 45355-365 Fax: +49 201 45355-904 Email: GRI 102-53 Thomas.Eisenlohr@instone.de ABOUT US Instone Real Estate Group AG Grugaplatz 2\u2009\u2013\u20094 45131 Essen Deutschland Telephone: +49 201 45355-0 Fax: Email: GRI 102-1; 102-3 Management Board Kruno Crepulja (Chairman/CEO), Dr Foruhar Madjlessi, Andreas Gr\u00e4f Chairman of the Supervisory Board Stefan Brendgen Commercial Register Registered in the Commercial Register of the Essen Local Court under HRB 29362 Sales tax ID number DE 300512686 Concept, design and implementation MPM Corporate Communication Solutions, Mainz, Dusseldorf mpm.de INS TONE REAL E S TATE \u2013 ANNUAL REPORT 2 019 159 +49 201 45355-934 info@instone.de FINANCIAL CALENDAR 19/03/2020 28/05/2020 09/06/2020 27/08/2020 26/11/2020 Publication of financial report for year ended 31 December 2019 Publication of quarterly statement as at 31 March 2020 Annual General Meeting Publication of half-year report as at 30 June 2020 Publication of quarterly statement as at 30 September 2020 GR I content index OTHER INFORMATION GRI CONTENT INDEX GRI CONTENT INDEX GRI standards Disclosures 102-1 102-3 102-4 102-5 102-7 102-8 102-12 102-13 102-14 102-15 102-18 102-22 102-23 102-24 102-25 102-26 102-29 102-30 102-31 102-33 102-40 102-41 102-43 102-45 Name of the organization Location of headquarters Location of operations Ownership and legal form Scale of the organization Information on employees and other workers External initiatives Membership of associations Statement from senior decision-maker Key impacts, risks, and opportunities Governance structure Composition of the highest governance body and its committees Chair of the highest governance body Nominating and selecting the highest governance body Conflicts of interest Role of highest governance body in setting purpose, values, and strategy Identifying and managing economic, environmental, and social impacts Effectiveness of risk management processes Review of economic, environmental, and social topics Communicating critical concerns List of stakeholder groups Collective bargaining agreements Approach to stakeholder engagement Entities included in the consolidated financial statements GRI 102-55 Page 159 159 32 29 2 33, 42, 44, 59, 70 46 46 20 34, 46 33, 98, 102 103-1 100, 102, 142 142 100 29, 92, 140, 142 202-1 101 202-2 102 101, 102 101 102, 104 47 43 49 150, 151 203-2 205-2 205-3 206-1 203 203-1 201-3 103-2 201-1 GRI CONTENT INDEX GRI standards Disclosures Page 102-46 102-47 102-48 102-49 102-51 102-53 102-54 102-55 102-56 103 Defining report content and topic Boundaries List of material topics Restatements of information Changes in reporting Date of most recent report Contact point for questions regarding the report Claims of reporting in accordance with the GRI Standards GRI content index External assurance Management Approach Explanation of the material topic and its Boundary The management approach and its components Direct economic value generated and distributed Defined benefit plan obligations and other retirement plans Ratios of standard entry level wage by gender compared to local minimum wage Proportion of senior management hired from the local community Indirect Economic Impacts Infrastructure investments and services supported Significant indirect economic impacts Communication and training about anti-corruption policies and procedures Confirmed incidents of corruption and actions taken Legal actions for anti-competitive behavior, anti-trust, and monopoly practices INS TONE REAL E S TATE \u2013 ANNUAL REPORT 2 019 160 115, 119 115 115, 117 115 41 159 41 160 41, 154 36 36 36 107, 108, 111, 124, 125 62, 87, 124, 126, 132 43 42 48 48 48 104 78 78 305 306 401-1 401-2 401-3 403-1 403-2 403-3 403-4 403-5 403-6 403-9 404-1 GRI CONTENT INDEX GRI standards Disclosures 207-1 207-2 207-3 207-4 302-1 302-5 304 304-2 304-3 304-4 Approach to tax Tax governance, control, and risk management Stakeholder engagement and management of concerns related to tax Country-by-country reporting Energy consumption within the organization Reductions in energy requirements of products and services Biodiversity Significant impacts of activities, products, and services on biodiversity Habitats protected or restored IUCN Red List species and national conservation list species with habitats in areas affected by operations Emissions Effluents and Waste New employee hires and employee turnover Benefits provided to full-time employees that are not provided to temporary or part-time employees Parental leave Occupational health and safety management system Hazard identification, risk assessment, and incident investigation Occupational health services Worker participation, consultation, and communication on occupational health and safety Worker training on occupational health and safety Promotion of worker health Work-related injuries Average hours of training per year per employee Page 50 50 50 50 50 50 49 50 50 50 50 49 42 43 43 44 44 44 44 44 44 44 44 GR I content index OTHER INFORMATION GRI CONTENT INDEX GRI standards Disclosures 405 405-1 405-2 406 406-1 407 407-1 408 408-1 Diversity and Equal Opportunity Diversity of governance bodies and employees Ratio of basic salary and remuneration of women to men Non-discrimination Incidents of discrimination and corrective actions taken Freedom of Association and Collective Bargaining Operations and suppliers in which the right to freedom of association and collective bargaining may be at risk Child Labor Operations and suppliers at significant risk for incidents of child labor Page 45 45, 103 416-1 45 45 45 418-1 45 419-1 45 46 46 417-2 417-3 GRI CONTENT INDEX GRI standards Disclosures 413-1 Operations with local community engagement, impact assessments, and development programs Assessment of the health and safety impacts of product and service categories Incidents of non-compliance concerning product and service information and labeling Incidents of non-compliance concerning marketing communications Substantiated complaints concerning breaches of customer privacy and losses of customer data Non-compliance with laws and regulations in the social and economic area Page 49 49 41, 78 78 78 104 INS TONE REAL E S TATE \u2013 ANNUAL REPORT 2 019 161 Glossary OTHER INFORMATION GLOSSARY A / Core cities: A cities: Refers to the metropolitan cities of Berlin, Hamburg, Munich, Cologne, Stuttgart, Frankfurt am Main and Dusseldorf which are considered in the real estate industry to be the seven most desirable locations in Germany."
+                }
+            ]
+        },
+        {
+            "title": "2018_BORUSSIA DORTMUND.pdf",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "How much is the capital share?",
+                            "id": "17-aa0a20aa-8f55-479f-8d02-042da1e3ebe3",
+                            "answers": [
+                                {
+                                    "text": "92,000,000.00",
+                                    "answer_start": 788
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "16 Anlage 1.4 / 16 41009653-1376911 THE SHARES Share price performance (in EUR) 1.0 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 0 Revenue (Shares) 100,000 200,000 300,000 400,000 500,000 600,000 700,000 800,000 900,000 1,000,000 1,100,000 1,200,000 1,300,000 1,400,000 1,500,000 1,600,000 1,700,000 0 41009653-1376911 Anlage 1.4 / 17 17 01/07/2017 01/08/2017 01/09/2017 01/10/2017 01/11/2017 01/12/2017 01/01/2018 01/02/2018 01/03/2018 01/04/2018 01/05/2018 01/07/2017 01/06/2018 01/08/2017 30/06/2018 01/09/2017 01/10/2017 01/11/2017 01/12/2017 01/01/2018 01/02/2018 01/03/2018 01/04/2018 01/05/2018 01/06/2018 30/06/2018 BORUSSIA DORTMUND GmbH & Co. Kommanditgesellschaft auf Aktien, Dortmund SHARE CAPITAL AND SHAREHOLDER STRUCTURE Borussia Dortmund GmbH & Co. KGaA's share capital amounts to EUR 92,000,000.00 divided into the same number of no-par value shares."
+                }
+            ]
+        },
+        {
+            "title": "2018_BORUSSIA DORTMUND.pdf",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "How much is the capital share?",
+                            "id": "17-1dbfb6c6-fbd5-4954-a1b6-aa90885b2bb8",
+                            "answers": [
+                                {
+                                    "text": "92,000,000.00",
+                                    "answer_start": 267
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "REPORT IN ACCORDANCE WITH \u00a7 289 (1) HGB The following information has been provided by the Company in response to the requirements of \u00a7 289 a (1) sentence 1 nos. 1 to 9 HGB: 1. As at 30 June 2018, the share capital of Borussia Dortmund GmbH & Co. KGaA amounts to EUR 92,000,000.00 and is divided into 92,000,000 nopar value ordinary bearer shares. All of the shares have been admitted to trading on the Regulated Market (Prime Standard) of the Frankfurt Stock Exchange and to the over-thecounter markets (Open Market) in Berlin, Bremen, Stuttgart, Munich, Hamburg and D\u00fcsseldorf. Each no-par value share entitles the holder to one vote at the Annual General Meeting. The Company has only one class of shares, and all shares carry the same rights and obligations. All other rights and responsibilities attaching to the Company's shares are determined in accordance with the German Stock Corporation Act (Aktiengesetz, \"AktG\")."
+                }
+            ]
+        },
+        {
+            "title": "2018_BORUSSIA DORTMUND.pdf",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "How much is the capital share?",
+                            "id": "17-b144a1e0-f5d7-43f7-840a-d2bf1e3a6843",
+                            "answers": [
+                                {
+                                    "text": "92,000,000.00",
+                                    "answer_start": 267
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "REPORT IN ACCORDANCE WITH \u00a7 315A (1) HGB The following information has been provided by the Company in response to the requirements of \u00a7 315a (1) sentence 1 nos. 1 to 9 HGB: 1. As at 30 June 2018, the share capital of Borussia Dortmund GmbH & Co. KGaA amounts to EUR 92,000,000.00 and is divided into 92,000,000 nopar value ordinary bearer shares. All of the shares have been admitted to trading on the Regulated Market (Prime Standard) of the Frankfurt Stock Exchange and to the over-thecounter markets (Open Market) in Berlin, Bremen, Stuttgart, Munich, Hamburg and D\u00fcsseldorf. Each no-par value share entitles the holder to one vote at the Annual General Meeting. The Company has only one class of shares, and all shares carry the same rights and obligations. All other rights and responsibilities attaching to the Company's shares are determined in accordance with the German Stock Corporation Act (Aktiengesetz, \"AktG\")."
+                }
+            ]
+        },
+        {
+            "title": "2019_CROPENERGIES AG.pdf",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "How much is the capital share?",
+                            "id": "17-07cdf924-98a9-4e6a-b4a2-a344e6d65c6f",
+                            "answers": [
+                                {
+                                    "text": "87,250,000",
+                                    "answer_start": 142
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "Composition of the subscribed capital, voting rights and transfer of shares The subscribed capital of the company as of 28 February 2019 is \u20ac 87,250,000 and is divided into 87,250,000 no-par-value bearer shares, each representing a proportional amount of \u20ac 1 of the share capital (\u00a7 315a [1] No. 1 HGB)."
+                }
+            ]
+        },
+        {
+            "title": "2019_CROPENERGIES AG.pdf",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "How much is the capital share?",
+                            "id": "17-3b55a4c0-2f0c-44ce-a2a3-d4bd08739448",
+                            "answers": [
+                                {
+                                    "text": "87,250,000",
+                                    "answer_start": 173
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "Composition of the subscribed capital, voting rights and transfer of shares The subscribed capital of the company as of 28 February 2019 is \u20ac 87,250,000 and is divided into 87,250,000 no-par-value bearer shares, each representing a proportional amount of \u20ac 1 of the share capital (\u00a7 315a [1] No. 1 HGB)."
+                }
+            ]
+        },
+        {
+            "title": "2019_CROPENERGIES AG.pdf",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "How much is the capital share?",
+                            "id": "17-0adb81d4-f852-4bf0-99bf-e59e74c03d66",
+                            "answers": [
+                                {
+                                    "text": "87,250,000",
+                                    "answer_start": 118
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "(21) Shareholders\u2019 equity Subscribed capital I CropEnergies AG\u2019s subscribed capital (share capital) is unchanged at \u20ac 87,250,000. It is divided into 87,250,000 no-par-value bearer shares, each representing a proportional amount of \u20ac 1.00 of the share capital. The share capital is fully paid in."
+                }
+            ]
+        },
+        {
+            "title": "2019_CROPENERGIES AG.pdf",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "How much is the capital share?",
+                            "id": "17-731e7253-4dd4-458c-8f32-a926cd85a38b",
+                            "answers": [
+                                {
+                                    "text": "87,250,000",
+                                    "answer_start": 149
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "(21) Shareholders\u2019 equity Subscribed capital I CropEnergies AG\u2019s subscribed capital (share capital) is unchanged at \u20ac 87,250,000. It is divided into 87,250,000 no-par-value bearer shares, each representing a proportional amount of \u20ac 1.00 of the share capital. The share capital is fully paid in."
+                }
+            ]
+        },
+        {
+            "title": "2019_INSTONE REAL ESTATE GROUP O.N..pdf",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "How much is the capital share?",
+                            "id": "17-b45fe2bf-81af-4fe0-9440-a71955c5d396",
+                            "answers": [
+                                {
+                                    "text": "36,988,336",
+                                    "answer_start": 387
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "91 INS TONE REAL E S TATE \u2013 ANNUAL REPORT 2019 Other disclosures Takeover law disclosures COMBINED MANAGEMENT REPORT TAKEOVER LAW DISCLOSURES The legal acquisition disclosures are shown below in accordance with Sections 315a and 289a HGB: 1 COMPOSITION OF THE SUBSCRIBED CAPITAL As at 31 December 2019, the subscribed capital (share capital) of Instone Real Estate Group AG amounted to \u20ac36,988,336.00. It is divided into 36,988,336 no-par-value bearer shares. The share capital is fully paid up. All shares in the Company have the same rights and obligations. Each share carries one vote and an entitlement to the same share of profits. The rights and duties arising from the shares are defined in the statutory provisions. As of 31 December 2019, the Company did not hold any of its own shares."
+                }
+            ]
+        },
+        {
+            "title": "2019_INSTONE REAL ESTATE GROUP O.N..pdf",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "How much is the capital share?",
+                            "id": "17-30fe13ef-3e2e-47a6-9dab-d89d4fabae32",
+                            "answers": [
+                                {
+                                    "text": "36,988,336",
+                                    "answer_start": 276
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "7.3 By resolution of the Annual General Meeting on 13 June 2019, the Management Board was authorised, with the consent of the Supervisory Board, to acquire own shares from the end of this Annual General Meeting until 12 June 2024 up to a total of 10% of the share capital of \u20ac36,988,336 or the lower share capital figure at the time the authorisation is exercised, whereby the authorisation may be exercised in full or in partial amounts, once or several times. However, the shares acquired on the basis of the authorisation, together with other shares in the Company that the Company has already acquired and still owns, may not account for more than 10% of the existing share capital at any time. The authorisation may also be exercised by dependent companies or companies in which the Company holds a majority stake or by third parties for the account of the Company or by its dependent companies or companies in which the Company holds a majority stake."
+                }
+            ]
+        },
+        {
+            "title": "2018_BORUSSIA DORTMUND.pdf",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "What is the identification number of the company?",
+                            "id": "5-3893e642-9680-40bd-b8c2-ea7471fb794f",
+                            "answers": [
+                                {
+                                    "text": "HRB 14217",
+                                    "answer_start": 216
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "Borussia Dortmund GmbH & Co. KGaA has its registered office at Rheinlanddamm 207 \u2013 209, 44137 Dortmund, Germany, and is listed in the commercial register of the Local Court (Amtsgericht) of Dortmund under the number HRB 14217. There is an additional obligation in accordance with \u00a7 315e (1) HGB to prepare consolidated financial statements applying international financial reporting standards (IFRS) as adopted by the EU."
+                }
+            ]
+        },
+        {
+            "title": "2018_BORUSSIA DORTMUND.pdf",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "What is the identification number of the company?",
+                            "id": "5-3499d43d-d50d-4f73-a2d0-8122c37991a7",
+                            "answers": [
+                                {
+                                    "text": "HRB 14217",
+                                    "answer_start": 2119
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "150 CONSOLIDATED FINANCIAL STATEMENTS for the period from 1 July 2017 to 30 June 2018 CONSOLIDATED STATEMENT OF CHANGES IN EQUITY of Borussia Dortmund GmbH & Co. KGaA EUR '000 Reserves Equity Other see note (9) 1 July 2016 Distributions to shareholders Subscribed capital 92,000 0 Acquisition of non-controlling interests without change of control 0 Sale of treasury shares Transactions with shareholders Other gains/losses incurred during the period, after taxes Total comprehensive income 30 June 2017 1 July 2017 Distributions to shareholders 0 0 Consolidated net profit for the year 0 0 0 92,000 92,000 0 Acquisition of non-controlling interests without change of control 0 Sale of treasury shares Transactions with shareholders Other gains/losses incurred during the period, after taxes Total comprehensive income Other reclassifications 30 June 2018 0 0 Consolidated net profit for the year 0 0 0 0 92,000 Capital 142,888 0 -45 0 -45 0 0 0 142,843 142,843 0 0 0 0 0 0 0 0 reserves reserves revenue Cash flow Treasury hedge shares 75,938 -5,519 0 0 -5,519 8,209 0 8,209 78,628 78,628 -5,519 0 0 -5,519 28,462 0 28,462 3 142,843 101,574 -1,171 0 0 0 0 0 115 115 -1,056 -1,056 0 0 0 0 0 1,059 1,059 -3 0 -113 0 0 0 0 0 0 0 -113 0 0 0 0 0 0 0 0 attributable to the owners of the parent company 309,542 -5,519 -45 0 -5,564 8,209 115 8,324 312,302 -5,519 0 0 -5,519 28,462 1,059 29,521 0 Consolidated equity 309,542 -5,519 -45 0 -5,564 8,209 115 8,324 -113 312,302 312,302 312,302 -5,519 0 0 -5,519 28,462 1,059 29,521 0 -113 336,304 336,304 151 BORUSSIA DORTMUND GmbH & Co. Kommanditgesellschaft auf Aktien, Dortmund NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS of Borussia Dortmund GmbH & Co. KGaA for the financial year from 1 July 2017 to 30 June 2018 (hereinafter also \"Borussia Dortmund\" or the \"Group\") BASIC PRINCIPLES General disclosures Borussia Dortmund GmbH & Co. KGaA (hereinafter also \"Borussia Dortmund\" or the \"Group\") has its registered office at Rheinlanddamm 207 \u2013 209, 44137 Dortmund, Germany, and is listed in the commercial register of the Local Court (Amtsgericht) of Dortmund under the number HRB 14217."
+                }
+            ]
+        },
+        {
+            "title": "2019_CROPENERGIES AG.pdf",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "What is the identification number of the company?",
+                            "id": "5-6c3fcd5f-3705-4e30-9c41-e25828ac844e",
+                            "answers": [
+                                {
+                                    "text": "HRB 700509",
+                                    "answer_start": 104
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "The company is registered in the commercial register at the district court of Mannheim under the number HRB 700509. Pursuant to \u00a7 2 of its articles of association of 16 November 2016, the object of the company is to acquire, hold and administer ownership interests in and establish other undertakings which are engaged, directly or indirectly, in the manufacture and distribution of bioethanol (agricultural alcohol), other biofuels and similar products which are produced from grain or other raw materials including the manufacture and distribution of co-products. CropEnergies AG is majority-owned by S\u00fcdzucker AG."
+                }
+            ]
+        },
+        {
+            "title": "2019_CROPENERGIES AG.pdf",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "What is the identification number of the company?",
+                            "id": "5-29688f83-b3bc-4df0-8f3a-779fd87a254d",
+                            "answers": [
+                                {
+                                    "text": "HRB 700509",
+                                    "answer_start": 753
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "Layout and Design: trio-group, Mannheim Print: abcdruck GmbH, Heidelberg \u00a9 2019 Financial calendar Statement for the 1st  quarter of 2019/20 Annual general meeting 2019 1st half-yearly report 2019/20 Statement for the 1st to 3rd quarters of 2019/20 Annual report press and analysts\u2019 conference financial year 2019/20 10 July 2019 16 July 2019 9 October 2019 13 January 2020 13 May 2020 Contacts CropEnergies AG Maximilianstra\u00dfe 10 68165 Mannheim Investor Relations Heike Baumbach Phone: +49 (621) 714190-30 Fax: +49 (621) 714190-03 ir@cropenergies.de Public Relations\u2009/\u2009Marketing Nadine Dejung-Custance\u2009/\u2009Clarissa Sonnenschein Phone: +49 (621) 714190-65 Fax: +49 (621) 714190-05 presse@cropenergies.de www.cropenergies.com Commercial Register Mannheim: HRB 700509 "
+                }
+            ]
+        },
+        {
+            "title": "2019_INSTONE REAL ESTATE GROUP O.N..pdf",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "What is the identification number of the company?",
+                            "id": "5-ff1b1b43-2896-4aaa-bc02-26633dd6fc14",
+                            "answers": [
+                                {
+                                    "text": "HRB 29362",
+                                    "answer_start": 851
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "Other disclosures Takeover law disclosures COMBINED MANAGEMENT REPORT 7 POWERS OF THE MANAGEMENT BOARD TO ISSUE OR REPURCHASE SHARES 7.1 In accordance with Section 6.1 of the Articles of Association, the Management Board is authorised, with the approval of the Supervisory Board, to increase the Company's share capital until 28 June 2023 by up to a total of \u20ac18,450.00 by issuing up to a total of 18,450,000 new no-par-value shares against cash and/or non-cash contributions (Authorised Capital 2018) and, in accordance with Section 6.2 of the Articles of Association with the consent of the Supervisory Board, to exclude the subscription rights of shareholders under certain conditions and within predefined limits. The authorised capital became effective upon the registration of the Company in the commercial register of the Local Court of Essen (HRB 29362) during the cross-border conversion on 28\u202fAugust\u202f2018."
+                }
+            ]
+        },
+        {
+            "title": "2019_INSTONE REAL ESTATE GROUP O.N..pdf",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "What is the identification number of the company?",
+                            "id": "5-6bf4114f-6b2e-4e7c-988e-a7a40b414d1e",
+                            "answers": [
+                                {
+                                    "text": "HRB 29362",
+                                    "answer_start": 772
+                                }
+                            ]
+                        }
+                    ],
+                    "context": "Essen, 13 March 2020 The Management Board Kruno Crepulja Dr. Foruhar Madjlessi Andreas Gr\u00e4f INS TONE REAL E S TATE \u2013 ANNUAL REPORT 2 019 158 CONTACT ABOUT US F INANCI AL CALENDAR OTHER INFORMATION CONTACT Thomas Eisenlohr Head of Investor Relations Instone Real Estate Group AG Grugaplatz 2\u2009\u2013\u20094, 45131 Essen, Germany Telephone: +49 201 45355-365 Fax: +49 201 45355-904 Email: GRI 102-53 Thomas.Eisenlohr@instone.de ABOUT US Instone Real Estate Group AG Grugaplatz 2\u2009\u2013\u20094 45131 Essen Deutschland Telephone: +49 201 45355-0 Fax: Email: GRI 102-1; 102-3 Management Board Kruno Crepulja (Chairman/CEO), Dr Foruhar Madjlessi, Andreas Gr\u00e4f Chairman of the Supervisory Board Stefan Brendgen Commercial Register Registered in the Commercial Register of the Essen Local Court under HRB 29362 Sales tax ID number DE 300512686 Concept, design and implementation MPM Corporate Communication Solutions, Mainz, Dusseldorf mpm.de INS TONE REAL E S TATE \u2013 ANNUAL REPORT 2 019 159 +49 201 45355-934 info@instone.de FINANCIAL CALENDAR 19/03/2020 28/05/2020 09/06/2020 27/08/2020 26/11/2020 Publication of financial report for year ended 31 December 2019 Publication of quarterly statement as at 31 March 2020 Annual General Meeting Publication of half-year report as at 30 June 2020 Publication of quarterly statement as at 30 September 2020 GR I content index OTHER INFORMATION GRI CONTENT INDEX GRI CONTENT INDEX GRI standards Disclosures 102-1 102-3 102-4 102-5 102-7 102-8 102-12 102-13 102-14 102-15 102-18 102-22 102-23 102-24 102-25 102-26 102-29 102-30 102-31 102-33 102-40 102-41 102-43 102-45 Name of the organization Location of headquarters Location of operations Ownership and legal form Scale of the organization Information on employees and other workers External initiatives Membership of associations Statement from senior decision-maker Key impacts, risks, and opportunities Governance structure Composition of the highest governance body and its committees Chair of the highest governance body Nominating and selecting the highest governance body Conflicts of interest Role of highest governance body in setting purpose, values, and strategy Identifying and managing economic, environmental, and social impacts Effectiveness of risk management processes Review of economic, environmental, and social topics Communicating critical concerns List of stakeholder groups Collective bargaining agreements Approach to stakeholder engagement Entities included in the consolidated financial statements GRI 102-55 Page 159 159 32 29 2 33, 42, 44, 59, 70 46 46 20 34, 46 33, 98, 102 103-1 100, 102, 142 142 100 29, 92, 140, 142 202-1 101 202-2 102 101, 102 101 102, 104 47 43 49 150, 151 203-2 205-2 205-3 206-1 203 203-1 201-3 103-2 201-1 GRI CONTENT INDEX GRI standards Disclosures Page 102-46 102-47 102-48 102-49 102-51 102-53 102-54 102-55 102-56 103 Defining report content and topic Boundaries List of material topics Restatements of information Changes in reporting Date of most recent report Contact point for questions regarding the report Claims of reporting in accordance with the GRI Standards GRI content index External assurance Management Approach Explanation of the material topic and its Boundary The management approach and its components Direct economic value generated and distributed Defined benefit plan obligations and other retirement plans Ratios of standard entry level wage by gender compared to local minimum wage Proportion of senior management hired from the local community Indirect Economic Impacts Infrastructure investments and services supported Significant indirect economic impacts Communication and training about anti-corruption policies and procedures Confirmed incidents of corruption and actions taken Legal actions for anti-competitive behavior, anti-trust, and monopoly practices INS TONE REAL E S TATE \u2013 ANNUAL REPORT 2 019 160 115, 119 115 115, 117 115 41 159 41 160 41, 154 36 36 36 107, 108, 111, 124, 125 62, 87, 124, 126, 132 43 42 48 48 48 104 78 78 305 306 401-1 401-2 401-3 403-1 403-2 403-3 403-4 403-5 403-6 403-9 404-1 GRI CONTENT INDEX GRI standards Disclosures 207-1 207-2 207-3 207-4 302-1 302-5 304 304-2 304-3 304-4 Approach to tax Tax governance, control, and risk management Stakeholder engagement and management of concerns related to tax Country-by-country reporting Energy consumption within the organization Reductions in energy requirements of products and services Biodiversity Significant impacts of activities, products, and services on biodiversity Habitats protected or restored IUCN Red List species and national conservation list species with habitats in areas affected by operations Emissions Effluents and Waste New employee hires and employee turnover Benefits provided to full-time employees that are not provided to temporary or part-time employees Parental leave Occupational health and safety management system Hazard identification, risk assessment, and incident investigation Occupational health services Worker participation, consultation, and communication on occupational health and safety Worker training on occupational health and safety Promotion of worker health Work-related injuries Average hours of training per year per employee Page 50 50 50 50 50 50 49 50 50 50 50 49 42 43 43 44 44 44 44 44 44 44 44 GR I content index OTHER INFORMATION GRI CONTENT INDEX GRI standards Disclosures 405 405-1 405-2 406 406-1 407 407-1 408 408-1 Diversity and Equal Opportunity Diversity of governance bodies and employees Ratio of basic salary and remuneration of women to men Non-discrimination Incidents of discrimination and corrective actions taken Freedom of Association and Collective Bargaining Operations and suppliers in which the right to freedom of association and collective bargaining may be at risk Child Labor Operations and suppliers at significant risk for incidents of child labor Page 45 45, 103 416-1 45 45 45 418-1 45 419-1 45 46 46 417-2 417-3 GRI CONTENT INDEX GRI standards Disclosures 413-1 Operations with local community engagement, impact assessments, and development programs Assessment of the health and safety impacts of product and service categories Incidents of non-compliance concerning product and service information and labeling Incidents of non-compliance concerning marketing communications Substantiated complaints concerning breaches of customer privacy and losses of customer data Non-compliance with laws and regulations in the social and economic area Page 49 49 41, 78 78 78 104 INS TONE REAL E S TATE \u2013 ANNUAL REPORT 2 019 161 Glossary OTHER INFORMATION GLOSSARY A / Core cities: A cities: Refers to the metropolitan cities of Berlin, Hamburg, Munich, Cologne, Stuttgart, Frankfurt am Main and Dusseldorf which are considered in the real estate industry to be the seven most desirable locations in Germany."
+                }
+            ]
+        }
+    ]
+}

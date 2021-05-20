@@ -1,0 +1,564 @@
+{
+    "predictions_dict": {
+        "1": [
+            {
+                "text": "CropEnergies AG",
+                "probability": 0.9471116662025452,
+                "start_char": 0,
+                "end_char": 0,
+                "question": "What is the legal name of the company the company?",
+                "q_id": 1,
+                "title": "2019_CROPENERGIES AG.pdf",
+                "paragraph_id": "p69p2",
+                "paragraph": "Executive board The executive board of CropEnergies AG currently comprises three members. As the executive body, it manages the affairs of the company with the aim of creating sustainable added value on its own responsibility and in the interests of the company. The members of the executive board share joint responsibility for overall management. The division of the duties and responsibilities of the executive board was last changed on 1 June 2018, based on its rules of procedure, as amended on 14 January 2016.",
+                "retriever_score": 1.0,
+                "final_score": 0.9524004995822907,
+                "from_table": {
+                    "id": 0,
+                    "row": -1,
+                    "col": -1
+                }
+            },
+            {
+                "text": "CT Biocarbonic GmbH",
+                "probability": 0.8766164779663086,
+                "start_char": 0,
+                "end_char": 0,
+                "question": "What is the legal name of the company the company?",
+                "q_id": 1,
+                "title": "2019_CROPENERGIES AG.pdf",
+                "paragraph_id": "p22p7",
+                "paragraph": "CT Biocarbonic GmbH is a joint venture established for the production and sale of food-grade liquefied CO2 . It operates a production plant in Zeitz for the purification and lique\u00ad faction of biogenic CO2 from the neighbouring CropEnergies ethanol production plant. The plant has an annual capacity of 100,000 tonnes of liquefied CO2 , which is used predomi-nantly in the food industry. Corporate management The executive board of CropEnergies AG is solely responsible for managing the affairs of the company and is monitored and advised by the supervisory board in this function.",
+                "retriever_score": 1.0,
+                "final_score": 0.8889548301696777,
+                "from_table": {
+                    "id": 0,
+                    "row": -1,
+                    "col": -1
+                }
+            },
+            {
+                "text": "S\u00fcdzucker AG",
+                "probability": 0.8736537098884583,
+                "start_char": 0,
+                "end_char": 0,
+                "question": "What is the legal name of the company the company?",
+                "q_id": 1,
+                "title": "2019_CROPENERGIES AG.pdf",
+                "paragraph_id": "p72p7",
+                "paragraph": "Paragraph 5.3.2 sentence 3 (Autonomy of the audit committee chairman) Thomas K\u00f6lbl is chairman of the audit committee. He is simultaneously a member of the executive board of S\u00fcdzucker AG, which holds a majority interest in CropEnergies AG. In our view, it makes sense that a majority shareholder is appropriately represented on the supervisory board of a company and Group management report | 71 Corporate Governance | 71 its committees. It is our conviction that it is in the interests of the company and all its shareholders for Mr K\u00f6lbl to exercise this office as audit committee chairman.",
+                "retriever_score": 1.0,
+                "final_score": 0.8862883388996124,
+                "from_table": {
+                    "id": 0,
+                    "row": -1,
+                    "col": -1
+                }
+            }
+        ],
+        "5": [
+            {
+                "text": "HRB 700509",
+                "probability": 0.9684861898422241,
+                "start_char": 0,
+                "end_char": 0,
+                "question": "What is the register number of the company?",
+                "q_id": 5,
+                "title": "2019_CROPENERGIES AG.pdf",
+                "paragraph_id": "p84p0",
+                "paragraph": "The company is registered in the commercial register at the district court of Mannheim under the number HRB 700509. Pursuant to \u00a7 2 of its articles of association of 16 November 2016, the object of the company is to acquire, hold and administer ownership interests in and establish other undertakings which are engaged, directly or indirectly, in the manufacture and distribution of bioethanol (agricultural alcohol), other biofuels and similar products which are produced from grain or other raw materials including the manufacture and distribution of co-products. CropEnergies AG is majority-owned by S\u00fcdzucker AG.",
+                "retriever_score": 1.0,
+                "final_score": 0.9716375708580017,
+                "from_table": {
+                    "id": 0,
+                    "row": -1,
+                    "col": -1
+                }
+            },
+            {
+                "text": "CropEnergies AG Mannheim",
+                "probability": 0.8146663904190063,
+                "start_char": 0,
+                "end_char": 0,
+                "question": "What is the identification number of the company?",
+                "q_id": 5,
+                "title": "2019_CROPENERGIES AG.pdf",
+                "paragraph_id": "p6p0",
+                "paragraph": "COMPANY PROFILE CropEnergies AG Mannheim \u2022 The leading producer and distributor of ethanol in Europe \u2022 Production sites in Germany, Belgium, France and the UK and trading offices in Brazil and Chile \u2022 Ethanol plants have been certified as sustainable with greenhouse gas reductions of, on average, more than 70 percent \u2022 Technological leader in Europe with innovative plant concepts \u2022 Know-how in the industrial processing of agricultural raw materials into high-quality products and their marketing accumulated over many years \u2022 Our aim: To ensure sustainable and renewable mobility for today and in the future THE PRODUCTION SITES Wilton, Great Britain Zeitz, Germany Annual capacity Annual capacity \u2022 400,000 m\u00b3 ethanol for fuel applications \u2022 350,000 t DDGS Raw materials Grain Raw materials Grain and sugar syrups \u2022 400,000 m3 ethanol for fuel and traditional applications \u2022 > 300,000 t ProtiGrain\u00ae \u2022 100,000 t liquified CO2 THE PRODUCTS CropEnergies processes the raw materials into ethanol, which mainly replaces petrol, and into valuable, high-quality food and animal feed products.",
+                "retriever_score": 0.0,
+                "final_score": 0.7331997513771057,
+                "from_table": {
+                    "id": 0,
+                    "row": -1,
+                    "col": -1
+                }
+            },
+            {
+                "text": "7",
+                "probability": 0.5020282864570618,
+                "start_char": 0,
+                "end_char": 0,
+                "question": "What is the entry number of the company?",
+                "q_id": 5,
+                "title": "2019_CROPENERGIES AG.pdf",
+                "paragraph_id": "p9p0",
+                "paragraph": "To our shareholders | 7 Letter to shareholders | 7 In the 2019/20 financial year, the markets for alternative fuels in general and ethanol in particular should gain momentum from the tightened energy and climate targets of 2020. CropEnergies is very well equipped for the upcoming growth. We will also be able to react to stronger demand at any time thanks to our employees\u2019 high level of competence and commitment. We express our sincere thanks to all of them for their dedication and above-average commitment they have shown once again in the past year.",
+                "retriever_score": 0.0,
+                "final_score": 0.4518254578113556,
+                "from_table": {
+                    "id": 0,
+                    "row": -1,
+                    "col": -1
+                }
+            }
+        ],
+        "6": [
+            {
+                "text": "district court of Mannheim",
+                "probability": 0.7826871275901794,
+                "start_char": 0,
+                "end_char": 0,
+                "question": "Which court is the company registered in?",
+                "q_id": 6,
+                "title": "2019_CROPENERGIES AG.pdf",
+                "paragraph_id": "p84p0",
+                "paragraph": "The company is registered in the commercial register at the district court of Mannheim under the number HRB 700509. Pursuant to \u00a7 2 of its articles of association of 16 November 2016, the object of the company is to acquire, hold and administer ownership interests in and establish other undertakings which are engaged, directly or indirectly, in the manufacture and distribution of bioethanol (agricultural alcohol), other biofuels and similar products which are produced from grain or other raw materials including the manufacture and distribution of co-products. CropEnergies AG is majority-owned by S\u00fcdzucker AG.",
+                "retriever_score": 1.0,
+                "final_score": 0.8044184148311615,
+                "from_table": {
+                    "id": 0,
+                    "row": -1,
+                    "col": -1
+                }
+            },
+            {
+                "text": "Frankfurt Stock Exchange",
+                "probability": 0.4359986186027527,
+                "start_char": 0,
+                "end_char": 0,
+                "question": "Which commercial register is the company registered in?",
+                "q_id": 6,
+                "title": "2019_CROPENERGIES AG.pdf",
+                "paragraph_id": "p19p0",
+                "paragraph": "Stock exchange listing and shareholder structure The CropEnergies AG share (ISIN DE000A0LAUP1) is listed in the Regulated Market (Prime Standard) on the Frankfurt Stock Exchange. The share is also traded in the XETRA\u00ae elec-tronic trading system and in the over-the-counter market at the stock exchanges in Frankfurt, Stuttgart, D\u00fcsseldorf, Hamburg, Munich and Berlin. As of 28 February 2019, S\u00fcddeutsche Zuckerr\u00fcben-Verwertungs-Genossenschaft eG (SZVG) directly holds 5.2% of CropEnergies shares as well as a further 69.2% indirectly via S\u00fcdzucker AG. No other significant shareholdings have been reported. The share\u2019s free float is therefore 25.6%. At the time of the annual general meeting in 2018, CropEnergies shares were located in over 8,000 \u2013 mainly p \u00ad rivate \u2013 deposit accounts.",
+                "retriever_score": 0.23333333333333334,
+                "final_score": 0.41573209007581075,
+                "from_table": {
+                    "id": 0,
+                    "row": -1,
+                    "col": -1
+                }
+            },
+            {
+                "text": "Germany",
+                "probability": 0.42034927010536194,
+                "start_char": 0,
+                "end_char": 0,
+                "question": "Which court is the company registered in?",
+                "q_id": 6,
+                "title": "2019_CROPENERGIES AG.pdf",
+                "paragraph_id": "p22p0",
+                "paragraph": "In Zeitz (Germany), CropEnergies Bioethanol GmbH operates a plant for producing around 400,000 m3 of ethanol a year. Most of the production is used as renewable fuel. Up to 60,000 m3 can also be processed into high-quality food-grade neutral alcohol. In addition, it is possible to produce more than 300,000 tonnes of the dried protein animal feed ProtiGrain\u00ae as well as thermal energy and electricity.",
+                "retriever_score": 0.23333333333333334,
+                "final_score": 0.4016476764281591,
+                "from_table": {
+                    "id": 0,
+                    "row": -1,
+                    "col": -1
+                }
+            }
+        ],
+        "7": [
+            {
+                "text": "16 November 2016",
+                "probability": 0.9532788991928101,
+                "start_char": 0,
+                "end_char": 0,
+                "question": "What is the date of incorporation?",
+                "q_id": 7,
+                "title": "2019_CROPENERGIES AG.pdf",
+                "paragraph_id": "p84p0",
+                "paragraph": "The company is registered in the commercial register at the district court of Mannheim under the number HRB 700509. Pursuant to \u00a7 2 of its articles of association of 16 November 2016, the object of the company is to acquire, hold and administer ownership interests in and establish other undertakings which are engaged, directly or indirectly, in the manufacture and distribution of bioethanol (agricultural alcohol), other biofuels and similar products which are produced from grain or other raw materials including the manufacture and distribution of co-products. CropEnergies AG is majority-owned by S\u00fcdzucker AG.",
+                "retriever_score": 1.0,
+                "final_score": 0.957951009273529,
+                "from_table": {
+                    "id": 0,
+                    "row": -1,
+                    "col": -1
+                }
+            },
+            {
+                "text": "December 2018",
+                "probability": 0.8197547793388367,
+                "start_char": 0,
+                "end_char": 0,
+                "question": "What is the date of incorporation?",
+                "q_id": 7,
+                "title": "2019_CROPENERGIES AG.pdf",
+                "paragraph_id": "p8p4",
+                "paragraph": "By adopting the \u201cRenewable Energy Directive\u201c in December 2018, the EU has set targets for renewable energy in the transport sector that extend until 2030. They are based on both established, locally and sustainably produced fuels and alternatives still to be developed. This is a step forward. However, these EU targets also need to be implemented in concrete terms in all member states and incentives for creating additional capacities for new forms of renewable energy provided. This, too, will drag on for years.",
+                "retriever_score": 0.2413793103448276,
+                "final_score": 0.7619172324394359,
+                "from_table": {
+                    "id": 0,
+                    "row": -1,
+                    "col": -1
+                }
+            },
+            {
+                "text": "17 July 2018",
+                "probability": 0.7137799263000488,
+                "start_char": 0,
+                "end_char": 0,
+                "question": "What is the date of incorporation?",
+                "q_id": 7,
+                "title": "2019_CROPENERGIES AG.pdf",
+                "paragraph_id": "p15p0",
+                "paragraph": "At the meeting on 17 July 2018 (prior to the annual general meeting), the medium-term planning was presented.",
+                "retriever_score": 0.2413793103448276,
+                "final_score": 0.6665398647045268,
+                "from_table": {
+                    "id": 0,
+                    "row": -1,
+                    "col": -1
+                }
+            }
+        ],
+        "9": [
+            {
+                "text": "CropEnergies AG Mannheim",
+                "probability": 0.9505527019500732,
+                "start_char": 0,
+                "end_char": 0,
+                "question": "What is the company address?",
+                "q_id": 9,
+                "title": "2019_CROPENERGIES AG.pdf",
+                "paragraph_id": "p6p0",
+                "paragraph": "COMPANY PROFILE CropEnergies AG Mannheim \u2022 The leading producer and distributor of ethanol in Europe \u2022 Production sites in Germany, Belgium, France and the UK and trading offices in Brazil and Chile \u2022 Ethanol plants have been certified as sustainable with greenhouse gas reductions of, on average, more than 70 percent \u2022 Technological leader in Europe with innovative plant concepts \u2022 Know-how in the industrial processing of agricultural raw materials into high-quality products and their marketing accumulated over many years \u2022 Our aim: To ensure sustainable and renewable mobility for today and in the future THE PRODUCTION SITES Wilton, Great Britain Zeitz, Germany Annual capacity Annual capacity \u2022 400,000 m\u00b3 ethanol for fuel applications \u2022 350,000 t DDGS Raw materials Grain Raw materials Grain and sugar syrups \u2022 400,000 m3 ethanol for fuel and traditional applications \u2022 > 300,000 t ProtiGrain\u00ae \u2022 100,000 t liquified CO2 THE PRODUCTS CropEnergies processes the raw materials into ethanol, which mainly replaces petrol, and into valuable, high-quality food and animal feed products.",
+                "retriever_score": 0.9354838709677419,
+                "final_score": 0.9490458188518401,
+                "from_table": {
+                    "id": 0,
+                    "row": -1,
+                    "col": -1
+                }
+            },
+            {
+                "text": "Houston",
+                "probability": 0.9432503581047058,
+                "start_char": 0,
+                "end_char": 0,
+                "question": "Where is the registered office of the company located?",
+                "q_id": 9,
+                "title": "2019_CROPENERGIES AG.pdf",
+                "paragraph_id": "p89p5",
+                "paragraph": "The annual financial statements of CropEnergies Inc., Houston, are prepared in US dollars (USD), those of Ensus UK Ltd, Yarm, in British pounds (GBP) and those of Ryssen Chile SpA, Lampa, Santiago de Chile, in Chilean pesos (CLP). As CropEnergies reports in euro (the parent company\u2019s functional currency), the assets and liabilities are translated at ECB reference rates or other published reference rates on the reporting date (closing rate). In the case of foreign exchange gains and losses resulting from the valuation of receivables and liabilities in connection with group funding operations, translation is at the average rate of ex\u00ad\u00adchange. However, if application of the average rate of exchange for the year produces untrue results, translation takes place at an adjusted average rate of exchange. The other expenses and income are reported at the average rate of exchange for the year.",
+                "retriever_score": 0.9354838709677419,
+                "final_score": 0.9424737093910094,
+                "from_table": {
+                    "id": 0,
+                    "row": -1,
+                    "col": -1
+                }
+            },
+            {
+                "text": "HRB 700509",
+                "probability": 0.9193696975708008,
+                "start_char": 0,
+                "end_char": 0,
+                "question": "What is the company address?",
+                "q_id": 9,
+                "title": "2019_CROPENERGIES AG.pdf",
+                "paragraph_id": "p84p0",
+                "paragraph": "The company is registered in the commercial register at the district court of Mannheim under the number HRB 700509. Pursuant to \u00a7 2 of its articles of association of 16 November 2016, the object of the company is to acquire, hold and administer ownership interests in and establish other undertakings which are engaged, directly or indirectly, in the manufacture and distribution of bioethanol (agricultural alcohol), other biofuels and similar products which are produced from grain or other raw materials including the manufacture and distribution of co-products. CropEnergies AG is majority-owned by S\u00fcdzucker AG.",
+                "retriever_score": 1.0,
+                "final_score": 0.9274327278137207,
+                "from_table": {
+                    "id": 0,
+                    "row": -1,
+                    "col": -1
+                }
+            }
+        ],
+        "11": [
+            {
+                "text": "Sustainable management",
+                "probability": 0.7140117883682251,
+                "start_char": 0,
+                "end_char": 0,
+                "question": "What does the company the leader in?",
+                "q_id": 11,
+                "title": "2019_CROPENERGIES AG.pdf",
+                "paragraph_id": "p3p0",
+                "paragraph": "Sustainable management is the prerequisite for our success. This is how we reconcile economics, ecology and social responsibility. By utilizing all raw materials completely, we produce not only a sustainable alternative to fossil fuel, but also valuable food and animal feed products.",
+                "retriever_score": 0.4,
+                "final_score": 0.6826106095314026,
+                "from_table": {
+                    "id": 0,
+                    "row": -1,
+                    "col": -1
+                }
+            },
+            {
+                "text": "Biotechnology",
+                "probability": 0.5374042391777039,
+                "start_char": 0,
+                "end_char": 0,
+                "question": "What is the company specializing in?",
+                "q_id": 11,
+                "title": "2019_CROPENERGIES AG.pdf",
+                "paragraph_id": "p35p4",
+                "paragraph": "The \u201cZeroCarb FP\u201d project funded by the Federal Ministry of Education and Research (BMBF), which was initiated as part of the \u201cIndustrial Biotechnology Innovation Alliance\u201d, is pursuing, among other things, the material use of carbon dioxide from ethanol fermentation. A cultivation method for a microorganism that binds CO2 and supplies intermediate chemical products has been developed on a laboratory scale. The aim is to use the bio-based chemicals obtained in this way as a sustainable alternative to petrochemical products.",
+                "retriever_score": 0.6,
+                "final_score": 0.5436638152599335,
+                "from_table": {
+                    "id": 0,
+                    "row": -1,
+                    "col": -1
+                }
+            },
+            {
+                "text": "European ethanol market",
+                "probability": 0.5121870040893555,
+                "start_char": 0,
+                "end_char": 0,
+                "question": "What does the company the leader in?",
+                "q_id": 11,
+                "title": "2019_CROPENERGIES AG.pdf",
+                "paragraph_id": "p60p0",
+                "paragraph": "58 | Group management report 58 | Risk and opportunities report RISK AND OPPORTUNITIES REPORT Risk management system CropEnergies is one of the largest and most efficient producers of ethanol in Europe and, owing to the production, distribution and trading network that it has created, is excellently positioned to occupy a leading role in the European ethanol market. Additionally, as a result of its complete utilisation of raw materials, CropEnergies has an attractive portfolio of high-grade food and animal feed products as well as neutral alcohol. This reduces the dependence on developments on the ethanol and raw material markets. Company operations, external influences and corporate actions to secure the existence, growth and success of an undertaking are subject to opportunities and risks. In order to identify these and actively manage them, CropEnergies has set up a group-wide risk management system.",
+                "retriever_score": 0.6,
+                "final_score": 0.5209683036804199,
+                "from_table": {
+                    "id": 0,
+                    "row": -1,
+                    "col": -1
+                }
+            }
+        ],
+        "12": [
+            {
+                "text": "Joachim Lutz",
+                "probability": 0.8300856351852417,
+                "start_char": 0,
+                "end_char": 0,
+                "question": "Who is the CEO/co-CEO of the company?",
+                "q_id": 12,
+                "title": "2019_CROPENERGIES AG.pdf",
+                "paragraph_id": "p10p0",
+                "paragraph": "Bobenheim am Berg President of the Chamber of Agriculture of Rhineland-Palatinate Dr. Wolfgang Heer Ludwigshafen am Rhein Chairman of the executive board of S\u00fcdzucker AG Franz-Josef M\u00f6llenberg Rellingen Former chairman of the Gewerkschaft Nahrung-Genuss-Gastst\u00e4tten (Union) \u00d6konomierat Norbert Schindler To our shareholders | 9 Supervisory board and executive board | 9 Executive board Joachim Lutz Chief Executive Officer (CEO) Mannheim First appointed: 4 May 2006 Executive board spokesman since 30 April 2015 Appointed until: 3 May 2021 Departments: Production, business development, public relations, marketing, investor relations (until 31 May 2018), compliance and personnel Michael Friedmann Chief Sales Officer (CSO) Mannheim First appointed: 30 April 2015 Appointed until: 29 April 2020 Departments: Procurement, sales and logistics Dr. Stephan Meeder Chief Financial Officer (CFO) Mannheim First appointed: 30 April 2015 Appointed until: 29 April 2020 Departments: Finance, accounting, taxes, controlling, investor relations (with effect from 1 June 2018), IT, risk management, and law Michael Friedmann, Joachim Lutz, Dr. Stephan Meeder A list of mandates held can be found on page 128 onwards of the annual report.",
+                "retriever_score": 1.0,
+                "final_score": 0.8470770716667175,
+                "from_table": {
+                    "id": 0,
+                    "row": -1,
+                    "col": -1
+                }
+            },
+            {
+                "text": "Joachim Lutz",
+                "probability": 0.4509982466697693,
+                "start_char": 0,
+                "end_char": 0,
+                "question": "Who is the CEO/co-CEO of the company?",
+                "q_id": 12,
+                "title": "2019_CROPENERGIES AG.pdf",
+                "paragraph_id": "p135p1",
+                "paragraph": "Mannheim, 24 April 2019 THE EXECUTIVE BOARD Joachim Lutz CEO Michael Friedmann CSO Dr. Stephan Meeder CFO 134 | Independent auditors\u2019 report INDEPENDENT AUDITOR\u2019S REPORT To CropEnergies AG, Mannheim REPORT ON THE AUDIT OF THE CONSOLIDATED FINANCIAL STATEMENTS AND OF THE GROUP MANAGEMENT REPORT Audit Opinions We have audited the consolidated financial statements of CropEnergies AG, Mannheim, and its subsidiaries (the Group), which comprise the consolidated statement of financial position as at February 28, 2019, and the consolidated statement of comprehensive income, consolidated statement of profit or loss, consolidated statement of changes in equity and consolidated statement of cash flows for the financial year from March 1, 2018 to February 28, 2019, and notes to the consolidated financial statements, including a summary of significant accounting policies.",
+                "retriever_score": 0.9090909090909091,
+                "final_score": 0.4968075129118833,
+                "from_table": {
+                    "id": 0,
+                    "row": -1,
+                    "col": -1
+                }
+            },
+            {
+                "text": "Joachim Lutz Michael Friedmann",
+                "probability": 0.37226149439811707,
+                "start_char": 0,
+                "end_char": 0,
+                "question": "Who is the CEO/co-CEO of the company?",
+                "q_id": 12,
+                "title": "2019_CROPENERGIES AG.pdf",
+                "paragraph_id": "p9p2",
+                "paragraph": "Kind regards, Joachim Lutz Michael Friedmann Chief Executive Officer (CEO) Chief Sales Officer (CSO) Dr. Stephan Meeder Chief Financial Officer (CFO) 8 | To our shareholders 8 | Supervisory board and executive board SUPERVISORY BOARD AND EXECUTIVE BOARD Supervisory board Prof. Dr. Markwart Kunz Chairman Braunschweig Former member of the executive board of S\u00fcdzucker AG Thomas K\u00f6lbl Deputy Chairman Speyer Member of the executive board of S\u00fcdzucker AG Dr. Hans-J\u00f6rg Gebhard Eppingen Chairman of the executive board of the Association S \u00ad \u00fcddeutscher Zuckerr\u00fcbenanbauer e. V.",
+                "retriever_score": 0.9696969696969696,
+                "final_score": 0.4320050419280024,
+                "from_table": {
+                    "id": 0,
+                    "row": -1,
+                    "col": -1
+                }
+            }
+        ],
+        "17": [
+            {
+                "text": "\u20ac 15 million",
+                "probability": 0.9469990134239197,
+                "start_char": 0,
+                "end_char": 0,
+                "question": "What is the total amount of shares listed?",
+                "q_id": 17,
+                "title": "2019_CROPENERGIES AG.pdf",
+                "paragraph_id": "p77p1",
+                "paragraph": "The annual general meeting of 12 July 2016 authorised the executive board, with the consent of the supervisory board, to increase the share capital of the company by 11 July 2021 by up to a total of \u20ac 15 million by issuing new shares in exchange for cash and/or contributions in kind and to exclude the pre-emptive subscription right of the shareholders in certain instances. The authorisation was not exercised in the 2018/19 financial year.",
+                "retriever_score": 0.8333333333333334,
+                "final_score": 0.9356324454148611,
+                "from_table": {
+                    "id": 0,
+                    "row": -1,
+                    "col": -1
+                }
+            },
+            {
+                "text": "\u20ac 15 million",
+                "probability": 0.9111596345901489,
+                "start_char": 0,
+                "end_char": 0,
+                "question": "What is the total amount of shares listed?",
+                "q_id": 17,
+                "title": "2019_CROPENERGIES AG.pdf",
+                "paragraph_id": "p108p0",
+                "paragraph": "106 | Consolidated financial statements 106 | Notes on the balance sheet The annual general meeting of 12 July 2016 authorised the executive board, with the consent of the supervisory board, to increase the share capital of the company by 11 July 2021 by up to a total of \u20ac 15 million by issuing new shares in exchange for cash and/or contributions in kind and to exclude the pre-emptive subscription right of the shareholders in certain instances. The authorisation was not exercised in the 2018/19 financial year.",
+                "retriever_score": 0.8333333333333334,
+                "final_score": 0.9033770044644674,
+                "from_table": {
+                    "id": 0,
+                    "row": -1,
+                    "col": -1
+                }
+            },
+            {
+                "text": "17",
+                "probability": 0.49538588523864746,
+                "start_char": 0,
+                "end_char": 0,
+                "question": "What is the total amount of shares listed?",
+                "q_id": 17,
+                "title": "2019_CROPENERGIES AG.pdf",
+                "paragraph_id": "p18p5",
+                "paragraph": "The share fell below \u20ac 4 started to recover at the beginwas trading at 10 October 2018 2nd quarterly report Forecast* 2018/19: \u20ac 25\u2009\u2013\u200955 million 14 December 2018 Forecast* 2018/19: \u20ac 25\u2009\u2013\u200940 million To our shareholders | 17 Share and capital market | 17 in the ensuing period, but had recovered to \u20ac 5.29 by the end of the financial year (28 February 2018: \u20ac 6.25). This meant that there was an overall decline of 15%.",
+                "retriever_score": 0.5,
+                "final_score": 0.4958472967147827,
+                "from_table": {
+                    "id": 0,
+                    "row": -1,
+                    "col": -1
+                }
+            }
+        ],
+        "18": [
+            {
+                "text": "Frankfurt Stock Exchange",
+                "probability": 0.7256985902786255,
+                "start_char": 0,
+                "end_char": 0,
+                "question": "On which stock exchange are the company shares listed?",
+                "q_id": 18,
+                "title": "2019_CROPENERGIES AG.pdf",
+                "paragraph_id": "p19p0",
+                "paragraph": "Stock exchange listing and shareholder structure The CropEnergies AG share (ISIN DE000A0LAUP1) is listed in the Regulated Market (Prime Standard) on the Frankfurt Stock Exchange. The share is also traded in the XETRA\u00ae elec-tronic trading system and in the over-the-counter market at the stock exchanges in Frankfurt, Stuttgart, D\u00fcsseldorf, Hamburg, Munich and Berlin. As of 28 February 2019, S\u00fcddeutsche Zuckerr\u00fcben-Verwertungs-Genossenschaft eG (SZVG) directly holds 5.2% of CropEnergies shares as well as a further 69.2% indirectly via S\u00fcdzucker AG. No other significant shareholdings have been reported. The share\u2019s free float is therefore 25.6%. At the time of the annual general meeting in 2018, CropEnergies shares were located in over 8,000 \u2013 mainly p \u00ad rivate \u2013 deposit accounts.",
+                "retriever_score": 1.0,
+                "final_score": 0.753128731250763,
+                "from_table": {
+                    "id": 0,
+                    "row": -1,
+                    "col": -1
+                }
+            },
+            {
+                "text": "New York stock exchange",
+                "probability": 0.7674492597579956,
+                "start_char": 0,
+                "end_char": 0,
+                "question": "On which stock exchange are the company shares listed?",
+                "q_id": 18,
+                "title": "2019_CROPENERGIES AG.pdf",
+                "paragraph_id": "p42p1",
+                "paragraph": "This development is consistent with low sugar prices: At the end of September 2018, they reached their lowest level for 10 years on the New York stock exchange.",
+                "retriever_score": 0.33333333333333326,
+                "final_score": 0.7240376671155294,
+                "from_table": {
+                    "id": 0,
+                    "row": -1,
+                    "col": -1
+                }
+            },
+            {
+                "text": "German",
+                "probability": 0.4692084491252899,
+                "start_char": 0,
+                "end_char": 0,
+                "question": "On which stock exchange are the company shares listed?",
+                "q_id": 18,
+                "title": "2019_CROPENERGIES AG.pdf",
+                "paragraph_id": "p21p0",
+                "paragraph": "The volume of all CropEnergies\u2019 shares traded on all the German stock exchanges in the past financial year amounted to 20 (27) million shares. That corresponds to an average daily turnover of approximately 78 (107) thousand shares. * Investor Relations CropEnergies provides timely and transparent information, particularly via its website www.cropenergies.com. Among other things, interested parties will find financial reports, press releases and capital market law notices (e.g., managers\u2019 transactions and the publication of MAR inside information) as well as the financial calendar. In addition, the website contains presentations for the capital market.",
+                "retriever_score": 0.33333333333333326,
+                "final_score": 0.4556209375460943,
+                "from_table": {
+                    "id": 0,
+                    "row": -1,
+                    "col": -1
+                }
+            }
+        ],
+        "25": [
+            {
+                "text": "Joachim Lutz",
+                "probability": 0.8300856351852417,
+                "start_char": 0,
+                "end_char": 0,
+                "question": "Who is the CEO/co-CEO of the company?",
+                "q_id": 25,
+                "title": "2019_CROPENERGIES AG.pdf",
+                "paragraph_id": "p10p0",
+                "paragraph": "Bobenheim am Berg President of the Chamber of Agriculture of Rhineland-Palatinate Dr. Wolfgang Heer Ludwigshafen am Rhein Chairman of the executive board of S\u00fcdzucker AG Franz-Josef M\u00f6llenberg Rellingen Former chairman of the Gewerkschaft Nahrung-Genuss-Gastst\u00e4tten (Union) \u00d6konomierat Norbert Schindler To our shareholders | 9 Supervisory board and executive board | 9 Executive board Joachim Lutz Chief Executive Officer (CEO) Mannheim First appointed: 4 May 2006 Executive board spokesman since 30 April 2015 Appointed until: 3 May 2021 Departments: Production, business development, public relations, marketing, investor relations (until 31 May 2018), compliance and personnel Michael Friedmann Chief Sales Officer (CSO) Mannheim First appointed: 30 April 2015 Appointed until: 29 April 2020 Departments: Procurement, sales and logistics Dr. Stephan Meeder Chief Financial Officer (CFO) Mannheim First appointed: 30 April 2015 Appointed until: 29 April 2020 Departments: Finance, accounting, taxes, controlling, investor relations (with effect from 1 June 2018), IT, risk management, and law Michael Friedmann, Joachim Lutz, Dr. Stephan Meeder A list of mandates held can be found on page 128 onwards of the annual report.",
+                "retriever_score": 1.0,
+                "final_score": 0.8470770716667175,
+                "from_table": {
+                    "id": 0,
+                    "row": -1,
+                    "col": -1
+                }
+            },
+            {
+                "text": "Joachim Lutz",
+                "probability": 0.4509982466697693,
+                "start_char": 0,
+                "end_char": 0,
+                "question": "Who is the CEO/co-CEO of the company?",
+                "q_id": 25,
+                "title": "2019_CROPENERGIES AG.pdf",
+                "paragraph_id": "p135p1",
+                "paragraph": "Mannheim, 24 April 2019 THE EXECUTIVE BOARD Joachim Lutz CEO Michael Friedmann CSO Dr. Stephan Meeder CFO 134 | Independent auditors\u2019 report INDEPENDENT AUDITOR\u2019S REPORT To CropEnergies AG, Mannheim REPORT ON THE AUDIT OF THE CONSOLIDATED FINANCIAL STATEMENTS AND OF THE GROUP MANAGEMENT REPORT Audit Opinions We have audited the consolidated financial statements of CropEnergies AG, Mannheim, and its subsidiaries (the Group), which comprise the consolidated statement of financial position as at February 28, 2019, and the consolidated statement of comprehensive income, consolidated statement of profit or loss, consolidated statement of changes in equity and consolidated statement of cash flows for the financial year from March 1, 2018 to February 28, 2019, and notes to the consolidated financial statements, including a summary of significant accounting policies.",
+                "retriever_score": 0.9090909090909091,
+                "final_score": 0.4968075129118833,
+                "from_table": {
+                    "id": 0,
+                    "row": -1,
+                    "col": -1
+                }
+            },
+            {
+                "text": "Joachim Lutz Michael Friedmann",
+                "probability": 0.37226149439811707,
+                "start_char": 0,
+                "end_char": 0,
+                "question": "Who is the CEO/co-CEO of the company?",
+                "q_id": 25,
+                "title": "2019_CROPENERGIES AG.pdf",
+                "paragraph_id": "p9p2",
+                "paragraph": "Kind regards, Joachim Lutz Michael Friedmann Chief Executive Officer (CEO) Chief Sales Officer (CSO) Dr. Stephan Meeder Chief Financial Officer (CFO) 8 | To our shareholders 8 | Supervisory board and executive board SUPERVISORY BOARD AND EXECUTIVE BOARD Supervisory board Prof. Dr. Markwart Kunz Chairman Braunschweig Former member of the executive board of S\u00fcdzucker AG Thomas K\u00f6lbl Deputy Chairman Speyer Member of the executive board of S\u00fcdzucker AG Dr. Hans-J\u00f6rg Gebhard Eppingen Chairman of the executive board of the Association S \u00ad \u00fcddeutscher Zuckerr\u00fcbenanbauer e. V.",
+                "retriever_score": 0.9696969696969696,
+                "final_score": 0.4320050419280024,
+                "from_table": {
+                    "id": 0,
+                    "row": -1,
+                    "col": -1
+                }
+            }
+        ]
+    }
+}
